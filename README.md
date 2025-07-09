@@ -1,6 +1,6 @@
 # 🌙 Lunaria – Your Pocket Guide to the Cosmos
 
-**LunarPhase** is a beautifully designed Android app that brings moon phases and cosmic events right to your fingertips. Whether you're a stargazer, space enthusiast, or simply curious about the night sky, this app is built for you.
+**Lunaria** is a beautifully designed Android app that brings moon phases and cosmic events right to your fingertips. Whether you're a stargazer, space enthusiast, or simply curious about the night sky, this app is built for you.
 
 ---
 
