@@ -44,14 +44,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Splash | Home | Events | Facts | Explore | | Settings | 
-|------|--------|---------|-------|----------|
-| ![Splash](Splash.png) | ![Home](Home.png) | ![Events](Events.png) | ![Facts](Facts.png) | ![Explore](Explore.png) |  ![Settings](Settings.png) |
-
----
-
 ## 📂 Folder Structure
 
 ```bash
