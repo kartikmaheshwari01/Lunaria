@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@drawable/add_fact_customize"
+    android:layout_gravity="center"
+    android:elevation="8dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Your Fact"
+        android:textColor="#CCCCCC"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/orbitron_bold"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp" />
+
+    <EditText
+        android:id="@+id/etusername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Your Name"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#888888"
+        android:background="@drawable/edittext_border"
+        android:padding="12dp"
+        android:layout_marginBottom="12dp"
+        android:fontFamily="@font/space_grotesk" />
+
+    <EditText
+        android:id="@+id/etUserFact"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:hint="Write your fact here..."
+        android:inputType="textMultiLine"
+        android:gravity="top|start"
+        android:lines="7"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#888888"
+        android:background="@drawable/edittext_border"
+        android:padding="12dp"
+        android:fontFamily="@font/space_grotesk" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnSubmitFact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:backgroundTint="#BBBBBB"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:fontFamily="@font/orbitron_bold"
+        android:padding="12dp"
+        android:layout_marginTop="8dp"/>
+</LinearLayout>

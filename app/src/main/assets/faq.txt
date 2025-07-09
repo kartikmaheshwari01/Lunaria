@@ -1,0 +1,33 @@
+1. What is the purpose of this app?
+This app is designed to educate and engage users with accurate, interactive information about the Moon, planets, stars, celestial events, and more.
+
+2. Do I need an internet connection to use this app?
+No, most features work offline. However, for live updates like real-time events or fact syncing, an internet connection is recommended.
+
+3. Why are some events not showing on the calendar?
+Ensure the correct filter (Lunar, Solar, Meteor, Planetary) is selected. Also, check your internet connection for the latest updates from Firebase.
+
+4. Can I get notifications for celestial events?
+Yes! You can enable notifications in the Settings tab to receive alerts for major events like eclipses, moon phases, or meteor showers.
+
+5. How often is the data updated?
+The app updates data in real-time when online. Offline data is based on a static JSON file bundled with the app.
+
+6. How do I switch between Light and Dark modes?
+Go to the Settings tab and toggle the "Light Mode" switch. The app is optimized for dark mode to reflect the space theme.
+
+7. Is the background video using battery or slowing the app?
+The video is optimized and paused when the app is not in use. You can turn off visual effects in future versions if needed.
+
+8. Is this app free to use?
+Yes! This app is completely free and does not require any subscriptions.
+
+9. How can I suggest a feature or report a bug?
+Tap on Contact Us in the Settings tab and send us your suggestions or issues. We’d love to hear from you!
+
+10. What data do you collect?
+Please review the Privacy Policy in the Settings section to understand how your data is handled.
+
+11. How accurate is the location used for moonrise, moonset, and celestial event calculations?
+The app uses your device’s GPS or network-based location to provide accurate timings for moonrise, moonset, and visibility of celestial events. If precise location access is not granted, the app will fall back to a general or last known location, which might slightly affect timing accuracy. We never store or share your location data. It's only used to enhance your sky-watching experience.
+

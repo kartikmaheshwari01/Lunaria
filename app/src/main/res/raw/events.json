@@ -1,0 +1,7052 @@
+{
+  "events": {
+    "2025-01-01": [
+      {
+        "name": "Venus: 47° E",
+        "type": "Planetary",
+        "time": null,
+        "region": "Worldwide",
+        "description": "Venus at 47° E elongation"
+      }
+    ],
+    "2025-01-03": [
+      {
+        "name": "Moon-Venus Conjunction",
+        "type": "Lunar",
+        "time": "20:24",
+        "region": "Worldwide",
+        "description": "Moon-Venus: 1.5° N"
+      },
+      {
+        "name": "Quadrantid Shower",
+        "type": "Meteor Shower",
+        "time": "20:24",
+        "region": "Worldwide",
+        "description": "Quadrantid Shower: ZHR = 120"
+      }
+    ],
+    "2025-01-04": [
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "22:18",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 0.7° S"
+      }
+    ],
+    "2025-01-10": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "06:01",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.3° S"
+      },
+      {
+        "name": "Venus Elongation",
+        "type": "Planetary",
+        "time": "08:59",
+        "region": "Worldwide",
+        "description": "Venus Elongation: 47.2° E"
+      }
+    ],
+    "2025-01-14": [
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "02:45",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.2° N"
+      },
+      {
+        "name": "Moon-Mars Conjunction",
+        "type": "Lunar",
+        "time": "08:42",
+        "region": "Worldwide",
+        "description": "Moon-Mars: 0.2° S"
+      }
+    ],
+    "2025-01-15": [
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "02:03",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 2.7° S"
+      }
+    ],
+    "2025-01-16": [
+      {
+        "name": "Mars Opposition",
+        "type": "Planetary",
+        "time": "06:17",
+        "region": "Worldwide",
+        "description": "Mars Opposition"
+      },
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "19:57",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 2.4° S"
+      }
+    ],
+    "2025-01-18": [
+      {
+        "name": "Venus-Saturn Conjunction",
+        "type": "Planetary",
+        "time": "20:53",
+        "region": "Worldwide",
+        "description": "Venus-Saturn: 2.2° N"
+      }
+    ],
+    "2025-01-21": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "08:53",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 0.1° N"
+      }
+    ],
+    "2025-01-23": [
+      {
+        "name": "Mars-Pollux Conjunction",
+        "type": "Planetary",
+        "time": "22:05",
+        "region": "Worldwide",
+        "description": "Mars-Pollux: 2.4° S"
+      }
+    ],
+    "2025-01-25": [
+      {
+        "name": "Moon-Antares Conjunction",
+        "type": "Lunar",
+        "time": "04:34",
+        "region": "Worldwide",
+        "description": "Moon-Antares: 0.3° N"
+      }
+    ],
+    "2025-02-01": [
+      {
+        "name": "Jupiter-Aldebaran Conjunction",
+        "type": "Planetary",
+        "time": "03:02",
+        "region": "Worldwide",
+        "description": "Jupiter-Aldebaran: 5.2° N"
+      },
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "09:46",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 1.1° S"
+      },
+      {
+        "name": "Venus: 45° E",
+        "type": "Planetary",
+        "time": null,
+        "region": "Worldwide",
+        "description": "Venus at 45° E elongation"
+      }
+    ],
+    "2025-02-02": [
+      {
+        "name": "Moon-Venus Conjunction",
+        "type": "Lunar",
+        "time": "01:27",
+        "region": "Worldwide",
+        "description": "Moon-Venus: 2.4° N"
+      }
+    ],
+    "2025-02-06": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "11:43",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.5° S"
+      }
+    ],
+    "2025-02-09": [
+      {
+        "name": "Mercury Superior Conjunction",
+        "type": "Planetary",
+        "time": "16:57",
+        "region": "Worldwide",
+        "description": "Mercury Superior Conjunction"
+      }
+    ],
+    "2025-02-10": [
+      {
+        "name": "Moon-Mars Conjunction",
+        "type": "Lunar",
+        "time": "00:36",
+        "region": "Worldwide",
+        "description": "Moon-Mars: 0.8° S"
+      },
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "10:19",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.2° N"
+      }
+    ],
+    "2025-02-11": [
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "10:03",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 2.7° S"
+      }
+    ],
+    "2025-02-13": [
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "04:21",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 2.3° S"
+      }
+    ],
+    "2025-02-17": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "17:01",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 0.3° N"
+      }
+    ],
+    "2025-02-21": [
+      {
+        "name": "Moon-Antares Conjunction",
+        "type": "Lunar",
+        "time": "13:21",
+        "region": "Worldwide",
+        "description": "Moon-Antares: 0.5° N"
+      }
+    ],
+    "2025-03-01": [
+      {
+        "name": "Venus: 30.4° E",
+        "type": "Planetary",
+        "time": null,
+        "region": "Worldwide",
+        "description": "Venus at 30.4° E elongation"
+      }
+    ],
+    "2025-03-02": [
+      {
+        "name": "Moon-Venus Conjunction",
+        "type": "Lunar",
+        "time": "04:18",
+        "region": "Worldwide",
+        "description": "Moon-Venus: 6.4° N"
+      }
+    ],
+    "2025-03-05": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "17:32",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.6° S"
+      }
+    ],
+    "2025-03-08": [
+      {
+        "name": "Mercury Elongation",
+        "type": "Planetary",
+        "time": "10:59",
+        "region": "Worldwide",
+        "description": "Mercury Elongation: 18.2° E"
+      }
+    ],
+    "2025-03-09": [
+      {
+        "name": "Moon-Mars Conjunction",
+        "type": "Lunar",
+        "time": "05:27",
+        "region": "Worldwide",
+        "description": "Moon-Mars: 1.8° S"
+      },
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "16:06",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.1° N"
+      }
+    ],
+    "2025-03-10": [
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "16:10",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 2.8° S"
+      }
+    ],
+    "2025-03-12": [
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "11:07",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 2.4° S"
+      },
+      {
+        "name": "Saturn Conjunction",
+        "type": "Planetary",
+        "time": "15:03",
+        "region": "Worldwide",
+        "description": "Saturn Conjunction"
+      },
+      {
+        "name": "Mercury-Venus Conjunction",
+        "type": "Planetary",
+        "time": "22:52",
+        "region": "Worldwide",
+        "description": "Mercury-Venus: 5.5° N"
+      }
+    ],
+    "2025-03-14": [
+      {
+        "name": "Total Lunar Eclipse",
+        "type": "Lunar Eclipse",
+        "time": "12:00",
+        "region": "Worldwide",
+        "description": "Total Lunar Eclipse"
+      }
+    ],
+    "2025-03-17": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "00:16",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 0.4° N"
+      }
+    ],
+    "2025-03-20": [
+      {
+        "name": "Neptune Conjunction",
+        "type": "Planetary",
+        "time": "03:20",
+        "region": "Worldwide",
+        "description": "Neptune Conjunction"
+      },
+      {
+        "name": "Moon-Antares Conjunction",
+        "type": "Lunar",
+        "time": "20:58",
+        "region": "Worldwide",
+        "description": "Moon-Antares: 0.5° N"
+      }
+    ],
+    "2025-03-23": [
+      {
+        "name": "Venus Inferior Conjunction",
+        "type": "Planetary",
+        "time": "06:26",
+        "region": "Worldwide",
+        "description": "Venus Inferior Conjunction"
+      }
+    ],
+    "2025-03-25": [
+      {
+        "name": "Mercury Inferior Conjunction",
+        "type": "Planetary",
+        "time": "00:47",
+        "region": "Worldwide",
+        "description": "Mercury Inferior Conjunction"
+      }
+    ],
+    "2025-03-29": [
+      {
+        "name": "Partial Solar Eclipse",
+        "type": "Solar Eclipse",
+        "time": "15:48",
+        "region": "Worldwide",
+        "description": "Partial Solar Eclipse"
+      }
+    ],
+    "2025-03-30": [
+      {
+        "name": "Mars-Pollux Conjunction",
+        "type": "Planetary",
+        "time": "00:27",
+        "region": "Worldwide",
+        "description": "Mars-Pollux: 4° S"
+      }
+    ],
+    "2025-04-01": [
+      {
+        "name": "Venus: 16.3° W",
+        "type": "Planetary",
+        "time": null,
+        "region": "Worldwide",
+        "description": "Venus at 16.3° W elongation"
+      }
+    ],
+    "2025-04-02": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "01:28",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.6° S"
+      }
+    ],
+    "2025-04-05": [
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "21:46",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.1° N"
+      }
+    ],
+    "2025-04-06": [
+      {
+        "name": "Moon-Mars Conjunction",
+        "type": "Lunar",
+        "time": "00:04",
+        "region": "Worldwide",
+        "description": "Moon-Mars: 2.3° S"
+      },
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "21:44",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 2.8° S"
+      }
+    ],
+    "2025-04-08": [
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "16:51",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 2.4° S"
+      }
+    ],
+    "2025-04-10": [
+      {
+        "name": "Mercury-Saturn Conjunction",
+        "type": "Planetary",
+        "time": "17:19",
+        "region": "Worldwide",
+        "description": "Mercury-Saturn: 2.1° N"
+      }
+    ],
+    "2025-04-13": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "06:39",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 0.4° N"
+      }
+    ],
+    "2025-04-17": [
+      {
+        "name": "Moon-Antares Conjunction",
+        "type": "Lunar",
+        "time": "03:19",
+        "region": "Worldwide",
+        "description": "Moon-Antares: 0.4° N"
+      }
+    ],
+    "2025-04-21": [
+      {
+        "name": "Mercury Elongation",
+        "type": "Planetary",
+        "time": "23:59",
+        "region": "Worldwide",
+        "description": "Mercury Elongation: 27.4° W"
+      }
+    ],
+    "2025-04-22": [
+      {
+        "name": "Lyrid Shower",
+        "type": "Meteor Shower",
+        "time": "17:53",
+        "region": "Worldwide",
+        "description": "Lyrid Shower: ZHR = 20"
+      }
+    ],
+    "2025-04-25": [
+      {
+        "name": "Moon-Venus Conjunction",
+        "type": "Lunar",
+        "time": "06:21",
+        "region": "Worldwide",
+        "description": "Moon-Venus: 2.4° N"
+      },
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "09:15",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 2.3° S"
+      }
+    ],
+    "2025-04-26": [
+      {
+        "name": "Moon-Mercury Conjunction",
+        "type": "Lunar",
+        "time": "06:05",
+        "region": "Worldwide",
+        "description": "Moon-Mercury: 4.3° S"
+      }
+    ],
+    "2025-04-29": [
+      {
+        "name": "Venus-Saturn Conjunction",
+        "type": "Planetary",
+        "time": "00:27",
+        "region": "Worldwide",
+        "description": "Venus-Saturn: 3.7° N"
+      },
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "11:35",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.5° S"
+      }
+    ],
+    "2025-05-01": [
+      {
+        "name": "Venus: 40.9° W",
+        "type": "Planetary",
+        "time": null,
+        "region": "Worldwide",
+        "description": "Venus at 40.9° W elongation"
+      }
+    ],
+    "2025-05-03": [
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "05:02",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.2° N"
+      }
+    ],
+    "2025-05-04": [
+      {
+        "name": "Moon-Mars Conjunction",
+        "type": "Lunar",
+        "time": "04:12",
+        "region": "Worldwide",
+        "description": "Moon-Mars: 2.2° S"
+      },
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "04:27",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 2.6° S"
+      },
+      {
+        "name": "Mars-Beehive Conjunction",
+        "type": "Planetary",
+        "time": "16:59",
+        "region": "Worldwide",
+        "description": "Mars-Beehive: 0.4° N"
+      }
+    ],
+    "2025-05-05": [
+      {
+        "name": "Eta Aquarid Shower",
+        "type": "Meteor Shower",
+        "time": "07:07",
+        "region": "Worldwide",
+        "description": "Eta Aquarid Shower: ZHR = 60"
+      },
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "22:58",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 2.2° S"
+      }
+    ],
+    "2025-05-10": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "12:43",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 0.4° N"
+      }
+    ],
+    "2025-05-14": [
+      {
+        "name": "Moon-Antares Conjunction",
+        "type": "Lunar",
+        "time": "09:10",
+        "region": "Worldwide",
+        "description": "Moon-Antares: 0.3° N"
+      }
+    ],
+    "2025-05-18": [
+      {
+        "name": "Uranus Conjunction",
+        "type": "Planetary",
+        "time": "05:55",
+        "region": "Worldwide",
+        "description": "Uranus Conjunction"
+      }
+    ],
+    "2025-05-22": [
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "22:51",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 2.8° S"
+      }
+    ],
+    "2025-05-24": [
+      {
+        "name": "Moon-Venus Conjunction",
+        "type": "Lunar",
+        "time": "04:52",
+        "region": "Worldwide",
+        "description": "Moon-Venus: 4° S"
+      }
+    ],
+    "2025-05-30": [
+      {
+        "name": "Mercury Superior Conjunction",
+        "type": "Planetary",
+        "time": "09:07",
+        "region": "Worldwide",
+        "description": "Mercury Superior Conjunction"
+      },
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "14:13",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.4° N"
+      }
+    ],
+    "2025-05-31": [
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "13:00",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 2.3° S"
+      }
+    ],
+    "2025-06-01": [
+      {
+        "name": "Venus Elongation",
+        "type": "Planetary",
+        "time": "06:59",
+        "region": "Worldwide",
+        "description": "Venus Elongation: 45.9° W"
+      },
+      {
+        "name": "Moon-Mars Conjunction",
+        "type": "Lunar",
+        "time": "14:49",
+        "region": "Worldwide",
+        "description": "Moon-Mars: 1.5° S"
+      },
+      {
+        "name": "Venus: 45.9° W",
+        "type": "Planetary",
+        "time": null,
+        "region": "Worldwide",
+        "description": "Venus at 45.9° W elongation"
+      }
+    ],
+    "2025-06-02": [
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "06:30",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 1.9° S"
+      }
+    ],
+    "2025-06-06": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "19:15",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 0.6° N"
+      }
+    ],
+    "2025-06-10": [
+      {
+        "name": "Moon-Antares Conjunction",
+        "type": "Lunar",
+        "time": "15:25",
+        "region": "Worldwide",
+        "description": "Moon-Antares: 0.3° N"
+      }
+    ],
+    "2025-06-17": [
+      {
+        "name": "Mars-Regulus Conjunction",
+        "type": "Planetary",
+        "time": "07:05",
+        "region": "Worldwide",
+        "description": "Mars-Regulus: 0.7° N"
+      }
+    ],
+    "2025-06-19": [
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "08:47",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 3.4° S"
+      }
+    ],
+    "2025-06-22": [
+      {
+        "name": "Mercury-Pollux Conjunction",
+        "type": "Planetary",
+        "time": "00:51",
+        "region": "Worldwide",
+        "description": "Mercury-Pollux: 5° S"
+      }
+    ],
+    "2025-06-23": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "07:59",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.6° S"
+      }
+    ],
+    "2025-06-24": [
+      {
+        "name": "Jupiter Conjunction",
+        "type": "Planetary",
+        "time": "20:06",
+        "region": "Worldwide",
+        "description": "Jupiter Conjunction"
+      }
+    ],
+    "2025-06-27": [
+      {
+        "name": "Moon-Mercury Conjunction",
+        "type": "Lunar",
+        "time": "11:02",
+        "region": "Worldwide",
+        "description": "Moon-Mercury: 2.9° S"
+      },
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "22:42",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 2.1° S"
+      }
+    ],
+    "2025-06-29": [
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "15:26",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 1.6° S"
+      }
+    ],
+    "2025-06-30": [
+      {
+        "name": "Moon-Mars Conjunction",
+        "type": "Lunar",
+        "time": "06:05",
+        "region": "Worldwide",
+        "description": "Moon-Mars: 0.2° S"
+      }
+    ],
+    "2025-07-01": [
+      {
+        "name": "Venus: 43.4° W",
+        "type": "Planetary",
+        "time": null,
+        "region": "Worldwide",
+        "description": "Venus at 43.4° W elongation"
+      }
+    ],
+    "2025-07-02": [
+      {
+        "name": "Mercury-Beehive Conjunction",
+        "type": "Planetary",
+        "time": "22:39",
+        "region": "Worldwide",
+        "description": "Mercury-Beehive: 1.3° S"
+      }
+    ],
+    "2025-07-04": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "02:39",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 0.9° N"
+      },
+      {
+        "name": "Mercury Elongation",
+        "type": "Planetary",
+        "time": "08:59",
+        "region": "Worldwide",
+        "description": "Mercury Elongation: 25.9° E"
+      },
+      {
+        "name": "Venus-Pleiades Conjunction",
+        "type": "Planetary",
+        "time": "20:44",
+        "region": "Worldwide",
+        "description": "Venus-Pleiades: 6.6° S"
+      }
+    ],
+    "2025-07-07": [
+      {
+        "name": "Moon-Antares Conjunction",
+        "type": "Lunar",
+        "time": "22:37",
+        "region": "Worldwide",
+        "description": "Moon-Antares: 0.4° N"
+      }
+    ],
+    "2025-07-13": [
+      {
+        "name": "Venus-Aldebaran Conjunction",
+        "type": "Planetary",
+        "time": "13:29",
+        "region": "Worldwide",
+        "description": "Venus-Aldebaran: 3.1° N"
+      }
+    ],
+    "2025-07-16": [
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "15:19",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 3.9° S"
+      }
+    ],
+    "2025-07-20": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "15:27",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.8° S"
+      }
+    ],
+    "2025-07-23": [
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "09:20",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 5° S"
+      }
+    ],
+    "2025-07-27": [
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "00:44",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 1.4° S"
+      }
+    ],
+    "2025-07-28": [
+      {
+        "name": "Delta Aquarid Shower",
+        "type": "Meteor Shower",
+        "time": "08:53",
+        "region": "Worldwide",
+        "description": "Delta Aquarid Shower: ZHR = 20"
+      }
+    ],
+    "2025-07-29": [
+      {
+        "name": "Moon-Mars Conjunction",
+        "type": "Lunar",
+        "time": "00:45",
+        "region": "Worldwide",
+        "description": "Moon-Mars: 1.4° N"
+      }
+    ],
+    "2025-07-31": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "10:45",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 1.1° N"
+      }
+    ],
+    "2025-08-01": [
+      {
+        "name": "Mercury Inferior Conjunction",
+        "type": "Planetary",
+        "time": "04:35",
+        "region": "Worldwide",
+        "description": "Mercury Inferior Conjunction"
+      },
+      {
+        "name": "Venus: 38° W",
+        "type": "Planetary",
+        "time": null,
+        "region": "Worldwide",
+        "description": "Venus at 38° W elongation"
+      }
+    ],
+    "2025-08-04": [
+      {
+        "name": "Moon-Antares Conjunction",
+        "type": "Lunar",
+        "time": "06:40",
+        "region": "Worldwide",
+        "description": "Moon-Antares: 0.6° N"
+      }
+    ],
+    "2025-08-12": [
+      {
+        "name": "Venus-Jupiter Conjunction",
+        "type": "Planetary",
+        "time": "11:53",
+        "region": "Worldwide",
+        "description": "Venus-Jupiter: 0.9° N"
+      },
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "20:05",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 4.1° S"
+      }
+    ],
+    "2025-08-13": [
+      {
+        "name": "Perseid Shower",
+        "type": "Meteor Shower",
+        "time": "00:47",
+        "region": "Worldwide",
+        "description": "Perseid Shower: ZHR = 90"
+      }
+    ],
+    "2025-08-16": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "21:09",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.9° S"
+      }
+    ],
+    "2025-08-19": [
+      {
+        "name": "Mercury-Beehive Conjunction",
+        "type": "Planetary",
+        "time": "09:58",
+        "region": "Worldwide",
+        "description": "Mercury-Beehive: 2.6° S"
+      },
+      {
+        "name": "Mercury Elongation",
+        "type": "Planetary",
+        "time": "14:59",
+        "region": "Worldwide",
+        "description": "Mercury Elongation: 18.6° W"
+      }
+    ],
+    "2025-08-20": [
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "02:05",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 4.9° S"
+      },
+      {
+        "name": "Moon-Venus Conjunction",
+        "type": "Lunar",
+        "time": "15:51",
+        "region": "Worldwide",
+        "description": "Moon-Venus: 5° S"
+      },
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "17:07",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.5° N"
+      }
+    ],
+    "2025-08-21": [
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "16:09",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 2.1° S"
+      }
+    ],
+    "2025-08-26": [
+      {
+        "name": "Moon-Mars Conjunction",
+        "type": "Lunar",
+        "time": "21:41",
+        "region": "Worldwide",
+        "description": "Moon-Mars: 3° N"
+      }
+    ],
+    "2025-08-27": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "18:57",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 1.2° N"
+      }
+    ],
+    "2025-08-31": [
+      {
+        "name": "Moon-Antares Conjunction",
+        "type": "Lunar",
+        "time": "14:55",
+        "region": "Worldwide",
+        "description": "Moon-Antares: 0.7° N"
+      },
+      {
+        "name": "Venus-Beehive Conjunction",
+        "type": "Planetary",
+        "time": "22:59",
+        "region": "Worldwide",
+        "description": "Venus-Beehive: 1.5° S"
+      }
+    ],
+    "2025-09-01": [
+      {
+        "name": "Venus: 31.2° W",
+        "type": "Planetary",
+        "time": null,
+        "region": "Worldwide",
+        "description": "Venus at 31.2° W elongation"
+      }
+    ],
+    "2025-09-07": [
+      {
+        "name": "Total Lunar Eclipse",
+        "type": "Lunar Eclipse",
+        "time": "23:13",
+        "region": "Worldwide",
+        "description": "Total Lunar Eclipse"
+      }
+    ],
+    "2025-09-09": [
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "01:09",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 4° S"
+      }
+    ],
+    "2025-09-13": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "02:48",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 1° S"
+      },
+      {
+        "name": "Mars-Spica Conjunction",
+        "type": "Planetary",
+        "time": "08:28",
+        "region": "Worldwide",
+        "description": "Mars-Spica: 2.2° N"
+      },
+      {
+        "name": "Mercury Superior Conjunction",
+        "type": "Planetary",
+        "time": "15:46",
+        "region": "Worldwide",
+        "description": "Mercury Superior Conjunction"
+      }
+    ],
+    "2025-09-16": [
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "16:06",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 4.7° S"
+      },
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "22:58",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.5° N"
+      }
+    ],
+    "2025-09-17": [
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "22:24",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 2.1° S"
+      }
+    ],
+    "2025-09-19": [
+      {
+        "name": "Venus-Regulus Conjunction",
+        "type": "Planetary",
+        "time": "13:59",
+        "region": "Worldwide",
+        "description": "Venus-Regulus: 0.5° N"
+      },
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "16:11",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 1.4° S"
+      },
+      {
+        "name": "Moon-Venus Conjunction",
+        "type": "Lunar",
+        "time": "16:46",
+        "region": "Worldwide",
+        "description": "Moon-Venus: 0.9° S"
+      }
+    ],
+    "2025-09-21": [
+      {
+        "name": "Saturn Opposition",
+        "type": "Planetary",
+        "time": "10:10",
+        "region": "Worldwide",
+        "description": "Saturn Opposition"
+      }
+    ],
+    "2025-09-22": [
+      {
+        "name": "Partial Solar Eclipse",
+        "type": "Solar Eclipse",
+        "time": "00:42",
+        "region": "Worldwide",
+        "description": "Partial Solar Eclipse"
+      }
+    ],
+    "2025-09-23": [
+      {
+        "name": "Neptune Opposition",
+        "type": "Planetary",
+        "time": "16:29",
+        "region": "Worldwide",
+        "description": "Neptune Opposition"
+      }
+    ],
+    "2025-09-24": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "02:31",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 1.2° N"
+      },
+      {
+        "name": "Moon-Mars Conjunction",
+        "type": "Lunar",
+        "time": "19:50",
+        "region": "Worldwide",
+        "description": "Moon-Mars: 4.3° N"
+      }
+    ],
+    "2025-09-27": [
+      {
+        "name": "Moon-Antares Conjunction",
+        "type": "Lunar",
+        "time": "22:34",
+        "region": "Worldwide",
+        "description": "Moon-Antares: 0.7° N"
+      }
+    ],
+    "2025-10-01": [
+      {
+        "name": "Venus: 23.9° W",
+        "type": "Planetary",
+        "time": null,
+        "region": "Worldwide",
+        "description": "Venus at 23.9° W elongation"
+      }
+    ],
+    "2025-10-06": [
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "07:46",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 3.8° S"
+      }
+    ],
+    "2025-10-09": [
+      {
+        "name": "Jupiter-Pollux Conjunction",
+        "type": "Planetary",
+        "time": "02:08",
+        "region": "Worldwide",
+        "description": "Jupiter-Pollux: 6.7° S"
+      }
+    ],
+    "2025-10-10": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "10:20",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.9° S"
+      }
+    ],
+    "2025-10-14": [
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "03:31",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 4.4° S"
+      },
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "04:30",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.6° N"
+      }
+    ],
+    "2025-10-15": [
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "03:53",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 2° S"
+      }
+    ],
+    "2025-10-16": [
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "21:56",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 1.4° S"
+      }
+    ],
+    "2025-10-20": [
+      {
+        "name": "Mercury-Mars Conjunction",
+        "type": "Planetary",
+        "time": "01:25",
+        "region": "Worldwide",
+        "description": "Mercury-Mars: 2° N"
+      },
+      {
+        "name": "Moon-Venus Conjunction",
+        "type": "Lunar",
+        "time": "02:37",
+        "region": "Worldwide",
+        "description": "Moon-Venus: 4° N"
+      }
+    ],
+    "2025-10-21": [
+      {
+        "name": "Orionid Shower",
+        "type": "Meteor Shower",
+        "time": "17:07",
+        "region": "Worldwide",
+        "description": "Orionid Shower: ZHR = 20"
+      }
+    ],
+    "2025-10-23": [
+      {
+        "name": "Moon-Mercury Conjunction",
+        "type": "Lunar",
+        "time": "21:15",
+        "region": "Worldwide",
+        "description": "Moon-Mercury: 2.5° N"
+      }
+    ],
+    "2025-10-25": [
+      {
+        "name": "Moon-Antares Conjunction",
+        "type": "Lunar",
+        "time": "05:15",
+        "region": "Worldwide",
+        "description": "Moon-Antares: 0.6° N"
+      }
+    ],
+    "2025-10-30": [
+      {
+        "name": "Mercury Elongation",
+        "type": "Planetary",
+        "time": "02:59",
+        "region": "Worldwide",
+        "description": "Mercury Elongation: 23.9° E"
+      }
+    ],
+    "2025-11-01": [
+      {
+        "name": "Venus: 16.2° W",
+        "type": "Planetary",
+        "time": null,
+        "region": "Worldwide",
+        "description": "Venus at 16.2° W elongation"
+      }
+    ],
+    "2025-11-02": [
+      {
+        "name": "Venus-Spica Conjunction",
+        "type": "Planetary",
+        "time": "06:04",
+        "region": "Worldwide",
+        "description": "Venus-Spica: 3.5° N"
+      },
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "15:46",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 3.7° S"
+      }
+    ],
+    "2025-11-05": [
+      {
+        "name": "South Taurid Shower",
+        "type": "Meteor Shower",
+        "time": "17:36",
+        "region": "Worldwide",
+        "description": "South Taurid Shower: ZHR = 10"
+      }
+    ],
+    "2025-11-06": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "20:26",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.8° S"
+      }
+    ],
+    "2025-11-09": [
+      {
+        "name": "Mercury-Antares Conjunction",
+        "type": "Planetary",
+        "time": "07:45",
+        "region": "Worldwide",
+        "description": "Mercury-Antares: 3.6° N"
+      }
+    ],
+    "2025-11-10": [
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "11:40",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.7° N"
+      },
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "12:56",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 4° S"
+      }
+    ],
+    "2025-11-11": [
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "10:27",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 1.8° S"
+      }
+    ],
+    "2025-11-12": [
+      {
+        "name": "North Taurid Shower",
+        "type": "Meteor Shower",
+        "time": "16:52",
+        "region": "Worldwide",
+        "description": "North Taurid Shower: ZHR = 15"
+      }
+    ],
+    "2025-11-13": [
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "03:51",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 1.1° S"
+      },
+      {
+        "name": "Mercury-Mars Conjunction",
+        "type": "Planetary",
+        "time": "08:41",
+        "region": "Worldwide",
+        "description": "Mercury-Mars: 1.2° N"
+      }
+    ],
+    "2025-11-17": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "15:11",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 1.3° N"
+      },
+      {
+        "name": "Leonid Shower",
+        "type": "Meteor Shower",
+        "time": "23:10",
+        "region": "Worldwide",
+        "description": "Leonid Shower: ZHR = 15"
+      }
+    ],
+    "2025-11-20": [
+      {
+        "name": "Mercury Inferior Conjunction",
+        "type": "Planetary",
+        "time": "14:20",
+        "region": "Worldwide",
+        "description": "Mercury Inferior Conjunction"
+      }
+    ],
+    "2025-11-21": [
+      {
+        "name": "Uranus Opposition",
+        "type": "Planetary",
+        "time": "17:33",
+        "region": "Worldwide",
+        "description": "Uranus Opposition"
+      }
+    ],
+    "2025-11-30": [
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "00:08",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 3.8° S"
+      }
+    ],
+    "2025-12-01": [
+      {
+        "name": "Venus: 8.7° W",
+        "type": "Planetary",
+        "time": null,
+        "region": "Worldwide",
+        "description": "Venus at 8.7° W elongation"
+      }
+    ],
+    "2025-12-04": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "04:59",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.8° S"
+      }
+    ],
+    "2025-12-07": [
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "20:03",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 3.7° S"
+      },
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "21:30",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.8° N"
+      }
+    ],
+    "2025-12-08": [
+      {
+        "name": "Mercury Superior Conjunction",
+        "type": "Planetary",
+        "time": "00:54",
+        "region": "Worldwide",
+        "description": "Mercury Superior Conjunction"
+      }
+    ],
+    "2025-12-09": [
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "17:51",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 1.6° S"
+      }
+    ],
+    "2025-12-10": [
+      {
+        "name": "Mars-Jupiter Conjunction",
+        "type": "Planetary",
+        "time": "01:28",
+        "region": "Worldwide",
+        "description": "Mars-Jupiter: 0.4° N"
+      }
+    ],
+    "2025-12-11": [
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "09:30",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 0.9° S"
+      }
+    ],
+    "2025-12-14": [
+      {
+        "name": "Geminid Shower",
+        "type": "Meteor Shower",
+        "time": "19:07",
+        "region": "Worldwide",
+        "description": "Geminid Shower: ZHR = 120"
+      },
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "21:09",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 1.5° N"
+      }
+    ],
+    "2025-12-16": [
+      {
+        "name": "Mercury Inferior Conj.",
+        "type": "Planetary",
+        "time": "00:06",
+        "region": "Worldwide",
+        "description": "Mercury Inferior Conj."
+      }
+    ],
+    "2025-12-17": [
+      {
+        "name": "Partial Lunar Eclipse",
+        "type": "Lunar Eclipse",
+        "time": "03:29",
+        "region": "Worldwide",
+        "description": "Pen. Lunar Eclipse"
+      }
+    ],
+    "2025-12-20": [
+      {
+        "name": "Moon-Spica",
+        "type": "Lunar",
+        "time": "07:22",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 1.7° N"
+      }
+    ],
+    "2025-12-23": [
+      {
+        "name": "Ursid Shower",
+        "type": "Meteor Shower",
+        "time": "04:00",
+        "region": "Worldwide",
+        "description": "Ursid Shower: ZHR = 10"
+      }
+    ],
+    "2025-12-27": [
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "08:29",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 3.9° S"
+      }
+    ],
+     "2026-01-01": [
+       {
+        "name": "Venus Superior Conjunction",
+        "type": "Planetary",
+        "time": "08:52",
+        "region": "Worldwide",
+        "description": "Venus Superior Conjunction"
+       }
+    ],
+    "2026-01-03": [
+      {
+        "name": "Quadrantid Shower",
+        "type": "Meteor Shower",
+        "time": "12:53",
+        "region": "Worldwide",
+        "description": "Quadrantid Shower: ZHR = 120"
+      },
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "13:46",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 3.5° S"
+      }
+    ],
+    "2026-01-07": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "04:57",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.7° S"
+    },
+    "2026-01-10": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.7° N"
+    },
+    "2026-01-11": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "20:53",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 3.6° S"
+    },
+    "2026-01-12": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "16:21",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.6° S"
+    },
+    "2026-01-14": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "18:14",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.2° S"
+    },
+    "2026-01-16": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "13:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 24.1° W"
+    },
+    "2026-01-19": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "03:19",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1° N"
+    },
+    "2026-01-22": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "12:12",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.5° N"
+    },
+    "2026-01-28": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "13:06",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 5.6° S"
+    },
+    "2026-01-30": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "22:04",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3.2° S"
+    },
+    "2026-02-03": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "10:35",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.6° S"
+    },
+    "2026-02-06": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "00:54",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2026-02-07": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "03:00",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 3.1° S"
+    },
+    "2026-02-08": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "00:09",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.4° S"
+    },
+    "2026-02-10": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "01:21",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1° S"
+    },
+    "2026-02-15": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "12:35",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.1° N"
+    },
+    "2026-02-16": {
+      "name": "Mercury Superior Conjunction",
+      "type": "Planetary",
+      "time": "00:23",
+      "region": "Worldwide",
+      "description": "Mercury Superior Conjunction"
+    },
+    "2026-02-18": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "21:28",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2026-02-23": {
+      "name": "Mars Conjunction",
+      "type": "Planetary",
+      "time": "09:37",
+      "region": "Worldwide",
+      "description": "Mars Conjunction"
+    },
+    "2026-02-26": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "10:11",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 6.4° S"
+    },
+    "2026-02-27": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "06:17",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.9° S"
+    },
+    "2026-03-02": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "16:21",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.4° S"
+    },
+    "2026-03-05": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "07:22",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.9° N"
+    },
+    "2026-03-06": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "04:36",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 2.5° S"
+    },
+    "2026-03-07": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "06:40",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.2° S"
+    },
+    "2026-03-09": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "07:56",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 0.7° S"
+    },
+    "2026-03-15": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "00:08",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.2° N"
+    },
+    "2026-03-18": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "06:50",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2026-03-24": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "04:47",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 7.2° S"
+    },
+    "2026-03-26": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "14:15",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.5° S"
+    },
+    "2026-03-30": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "23:44",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.3° S"
+    },
+    "2026-04-01": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "14:38",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 3° N"
+    },
+    "2026-04-02": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "05:51",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 1.7° S"
+    },
+    "2026-04-03": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "13:28",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1° S"
+    },
+    "2026-04-05": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "14:02",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 0.5° S"
+    },
+    "2026-04-09": {
+      "name": "Total Solar Eclipse",
+      "type": "Solar Eclipse",
+      "time": "18:48",
+      "region": "Worldwide",
+      "description": "Total Solar Eclipse"
+    },
+    "2026-04-10": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "16:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 19.3° E"
+    },
+    "2026-04-11": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "07:37",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.4° N"
+    },
+    "2026-04-14": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "14:30",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.8° N"
+    },
+    "2026-04-22": {
+      "name": "Lyrid Shower",
+      "type": "Meteor Shower",
+      "time": "09:59",
+      "region": "Worldwide",
+      "description": "Lyrid Shower: ZHR = 20"
+    },
+    "2026-04-23": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "02:18",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 7.6° S"
+    },
+    "2026-04-25": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "22:58",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.1° S"
+    },
+    "2026-04-28": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "07:44",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.3° S"
+    },
+    "2026-05-01": [
+      {
+        "name": "Mercury Inferior Conjunction",
+        "type": "Planetary",
+        "time": "04:00",
+        "region": "Worldwide",
+        "description": "Mercury Inferior Conjunction"
+      },
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "20:53",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 3.1° N"
+      },
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "22:21",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 0.9° S"
+      }
+    ],
+    "2026-05-02": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "20:51",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 0.8° S"
+    },
+    "2026-05-05": [
+      {
+        "name": "Eta Aquarid Shower",
+        "type": "Meteor Shower",
+        "time": "04:53",
+        "region": "Worldwide",
+        "description": "Eta Aquarid Shower: ZHR = 60"
+      },
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "20:25",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 0.3° S"
+      }
+    ],
+    "2026-05-08": {
+      "name": "Annular Solar Eclipse",
+      "type": "Solar Eclipse",
+      "time": "06:00",
+      "region": "Worldwide",
+      "description": "Annular Solar Eclipse"
+    },
+    "2026-05-09": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "16:21",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.5° N"
+    },
+    "2026-05-12": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "22:25",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.8° N"
+    },
+    "2026-05-18": {
+      "name": "Moon-Uranus Conjunction",
+      "type": "Lunar",
+      "time": "15:24",
+      "region": "Worldwide",
+      "description": "Moon-Uranus: 5.7° S"
+    },
+    "2026-05-20": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 7.9° S"
+    },
+    "2026-05-23": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "07:22",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 1.6° S"
+    },
+    "2026-05-25": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "23:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 25.1° W"
+    },
+    "2026-05-26": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "15:10",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.2° S"
+    },
+    "2026-05-28": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "03:52",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 3.1° N"
+    },
+    "2026-05-29": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "04:37",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 0.6° S"
+    },
+    "2026-06-01": [
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "03:03",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 0.1° S"
+      },
+      {
+        "name": "Mercury-Pleiades Conjunction",
+        "type": "Planetary",
+        "time": "11:00",
+        "region": "Worldwide",
+        "description": "Mercury-Pleiades: 0.9° N"
+      }
+    ],
+    "2026-06-06": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "01:21",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.6° N"
+    },
+    "2026-06-09": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "05:51",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.9° N"
+    },
+    "2026-06-15": {
+      "name": "Moon-Uranus Conjunction",
+      "type": "Lunar",
+      "time": "18:04",
+      "region": "Worldwide",
+      "description": "Moon-Uranus: 5.7° S"
+    },
+    "2026-06-16": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "12:12",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 7.9° S"
+    },
+    "2026-06-19": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "15:28",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 1.2° S"
+    },
+    "2026-06-22": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "22:15",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.2° S"
+    },
+    "2026-06-24": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "10:14",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 3.2° N"
+    },
+    "2026-06-25": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "10:29",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 0.5° S"
+    },
+    "2026-06-28": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "09:05",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 0.1° S"
+    },
+    "2026-07-03": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "09:12",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.8° N"
+    },
+    "2026-07-06": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "11:51",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.9° N"
+    },
+    "2026-07-13": {
+      "name": "Moon-Uranus Conjunction",
+      "type": "Lunar",
+      "time": "04:52",
+      "region": "Worldwide",
+      "description": "Moon-Uranus: 5.7° S"
+    },
+    "2026-07-14": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "05:07",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 7.7° S"
+    },
+    "2026-07-17": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "00:08",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 0.8° S"
+    },
+    "2026-07-20": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "07:23",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.2° S"
+    },
+    "2026-07-21": {
+      "name": "Mercury Superior Conjunction",
+      "type": "Planetary",
+      "time": "06:17",
+      "region": "Worldwide",
+      "description": "Mercury Superior Conjunction"
+    },
+    "2026-07-22": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "16:29",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 3.2° N"
+    },
+    "2026-07-23": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "16:11",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 0.3° S"
+    },
+    "2026-07-25": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "16:21",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 0.1° N"
+    },
+    "2026-07-28": {
+      "name": "Delta Aquarid Shower",
+      "type": "Meteor Shower",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "Delta Aquarid Shower: ZHR = 20"
+    },
+    "2026-07-30": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "17:41",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.9° N"
+    },
+    "2026-08-02": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "17:34",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 1° N"
+    },
+    "2026-08-09": {
+      "name": "Moon-Uranus Conjunction",
+      "type": "Lunar",
+      "time": "13:30",
+      "region": "Worldwide",
+      "description": "Moon-Uranus: 5.7° S"
+    },
+    "2026-08-11": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "00:03",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 7.3° S"
+    },
+    "2026-08-12": [
+      {
+        "name": "Perseid Shower",
+        "type": "Meteor Shower",
+        "time": "15:00",
+        "region": "Worldwide",
+        "description": "Perseid Shower: ZHR = 90"
+      },
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "08:18",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 0.4° S"
+      }
+    ],
+    "2026-08-16": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "15:05",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.3° S"
+    },
+    "2026-08-18": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "00:52",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 3.2° N"
+    },
+    "2026-08-19": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "00:08",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 0.1° S"
+    },
+    "2026-08-21": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "00:39",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 0.3° N"
+    },
+    "2026-08-27": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "03:57",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 2° N"
+    },
+    "2026-08-30": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "00:30",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 1.1° N"
+    },
+    "2026-09-05": {
+      "name": "Moon-Uranus Conjunction",
+      "type": "Lunar",
+      "time": "22:58",
+      "region": "Worldwide",
+      "description": "Moon-Uranus: 5.7° S"
+    },
+    "2026-09-08": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "16:26",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 0.2° N"
+    },
+    "2026-09-10": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "18:00",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 6.8° S"
+    },
+    "2026-09-12": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "22:45",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.4° S"
+    },
+    "2026-09-14": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "09:47",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 3.2° N"
+    },
+    "2026-09-15": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "09:12",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 0.0° N"
+    },
+    "2026-09-17": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "09:07",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 0.5° N"
+    },
+    "2026-09-23": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "11:51",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 2.1° N"
+    },
+    "2026-09-26": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "06:33",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 1.1° N"
+    },
+    "2026-10-02": [
+      {
+        "name": "Moon-Uranus Conjunction",
+        "type": "Lunar",
+        "time": "09:06",
+        "region": "Worldwide",
+        "description": "Moon-Uranus: 5.7° S"
+      },
+      {
+        "name": "Mercury Elongation",
+        "type": "Planetary",
+        "time": "11:59",
+        "region": "Worldwide",
+        "description": "Mercury Elongation: 25.8° E"
+      }
+    ],
+    "2026-10-05": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "00:03",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 0.6° N"
+    },
+    "2026-10-10": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "06:21",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2026-10-11": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 3.2° N"
+    },
+    "2026-10-12": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "17:09",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 0.2° N"
+    },
+    "2026-10-14": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "17:15",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 0.7° N"
+    },
+    "2026-10-16": {
+      "name": "Jupiter Opposition",
+      "type": "Planetary",
+      "time": "16:20",
+      "region": "Worldwide",
+      "description": "Jupiter Opposition"
+    },
+    "2026-10-21": [
+      {
+        "name": "Orionid Shower",
+        "type": "Meteor Shower",
+        "time": "03:00",
+        "region": "Worldwide",
+        "description": "Orionid Shower: ZHR = 20"
+      },
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "19:40",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 2.2° N"
+      }
+    ],
+    "2026-10-22": {
+      "name": "Mercury Inferior Conjunction",
+      "type": "Planetary",
+      "time": "16:47",
+      "region": "Worldwide",
+      "description": "Mercury Inferior Conjunction"
+    },
+    "2026-10-24": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "13:30",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 1.2° N"
+    },
+    "2026-10-30": {
+      "name": "Moon-Uranus Conjunction",
+      "type": "Lunar",
+      "time": "20:00",
+      "region": "Worldwide",
+      "description": "Moon-Uranus: 5.7° S"
+    },
+    "2026-11-01": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "09:05",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 1.1° N"
+    },
+    "2026-11-03": {
+      "name": "Moon-Venus Conjunction",
+      "type": "Lunar",
+      "time": "02:00",
+      "region": "Worldwide",
+      "description": "Moon-Venus: 0.9° N"
+    },
+    "2026-11-05": {
+      "name": "South Taurid Shower",
+      "type": "Meteor Shower",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "South Taurid Shower: ZHR = 10"
+    },
+    "2026-11-06": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "13:42",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2026-11-07": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "07:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 19° W"
+    },
+    "2026-11-08": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "04:54",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 3.2° N"
+    },
+    "2026-11-09": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "01:21",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 0.4° N"
+    },
+    "2026-11-10": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "01:52",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 0.9° N"
+    },
+    "2026-11-17": {
+      "name": "Leonid Shower",
+      "type": "Meteor Shower",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "Leonid Shower: ZHR = 15"
+    },
+    "2026-11-18": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "04:09",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 2.3° N"
+    },
+    "2026-11-20": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "19:54",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 1.3° N"
+    },
+    "2026-11-27": [
+      {
+        "name": "Moon-Uranus Conjunction",
+        "type": "Lunar",
+        "time": "07:05",
+        "region": "Worldwide",
+        "description": "Moon-Uranus: 5.7° S"
+      },
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "17:41",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 1.5° N"
+      }
+    ],
+    "2026-12-03": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "21:38",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.5° S"
+      },
+      {
+        "name": "Moon-Venus Conjunction",
+        "type": "Lunar",
+        "time": "23:44",
+        "region": "Worldwide",
+        "description": "Moon-Venus: 0.4° N"
+      }
+    ],
+    "2026-12-05": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "14:14",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 3.2° N"
+    },
+    "2026-12-06": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "10:04",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 0.6° N"
+    },
+    "2026-12-07": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "10:13",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.1° N"
+    },
+    "2026-12-14": {
+      "name": "Geminid Shower",
+      "type": "Meteor Shower",
+      "time": "14:00",
+      "region": "Worldwide",
+      "description": "Geminid Shower: ZHR = 120"
+    },
+    "2026-12-15": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "11:51",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 2.3° N"
+    },
+    "2026-12-18": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "03:19",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 1.3° N"
+    },
+    "2026-12-21": {
+      "name": "Moon-Neptune Conjunction",
+      "type": "Lunar",
+      "time": "08:14",
+      "region": "Worldwide",
+      "description": "Moon-Neptune: 5.2° S"
+    },
+    "2026-12-22": {
+      "name": "Ursid Shower",
+      "type": "Meteor Shower",
+      "time": "04:00",
+      "region": "Worldwide",
+      "description": "Ursid Shower: ZHR = 10"
+    },
+    "2026-12-24": {
+      "name": "Moon-Uranus Conjunction",
+      "type": "Lunar",
+      "time": "16:21",
+      "region": "Worldwide",
+      "description": "Moon-Uranus: 5.7° S"
+    },
+    "2026-12-25": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "02:37",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 1.8° N"
+    },
+    "2026-12-31": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "05:51",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.6° S"
+    },
+    "2027-01-03": [
+      {
+        "name": "Quadrantid Shower",
+        "type": "Meteor Shower",
+        "time": "01:00",
+        "region": "Worldwide",
+        "description": "Quadrantid Shower: ZHR = 120"
+      },
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "00:03",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 3.2° N"
+      }
+    ],
+    "2027-01-04": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "18:31",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 0.8° N"
+    },
+    "2027-01-06": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.2° N"
+    },
+    "2027-01-09": {
+      "name": "Mercury Superior Conjunction",
+      "type": "Planetary",
+      "time": "14:26",
+      "region": "Worldwide",
+      "description": "Mercury Superior Conjunction"
+    },
+    "2027-01-12": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "20:06",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 2.4° N"
+    },
+    "2027-01-14": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "20:53",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 3.4° N"
+    },
+    "2027-01-15": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "10:55",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 1.4° N"
+    },
+    "2027-01-17": {
+      "name": "Moon-Neptune Conjunction",
+      "type": "Lunar",
+      "time": "18:14",
+      "region": "Worldwide",
+      "description": "Moon-Neptune: 5.1° S"
+    },
+    "2027-01-20": {
+      "name": "Moon-Uranus Conjunction",
+      "type": "Lunar",
+      "time": "01:21",
+      "region": "Worldwide",
+      "description": "Moon-Uranus: 5.7° S"
+    },
+    "2027-01-21": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "10:04",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2° N"
+    },
+    "2027-01-29": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "13:21",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.7° S"
+    },
+    "2027-01-30": {
+      "name": "Moon-Venus Conjunction",
+      "type": "Lunar",
+      "time": "13:30",
+      "region": "Worldwide",
+      "description": "Moon-Venus: 0.1° N"
+    },
+    "2027-02-01": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "10:14",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 3.2° N"
+    },
+    "2027-02-02": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "03:41",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 0.9° N"
+    },
+    "2027-02-04": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "03:44",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.3° N"
+    },
+    "2027-02-08": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "04:52",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 2.5° N"
+    },
+    "2027-02-11": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "09:41",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 4.8° N"
+    },
+    "2027-02-12": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 1.4° N"
+    },
+    "2027-02-14": {
+      "name": "Moon-Neptune Conjunction",
+      "type": "Lunar",
+      "time": "05:00",
+      "region": "Worldwide",
+      "description": "Moon-Neptune: 5.1° S"
+    },
+    "2027-02-16": {
+      "name": "Moon-Uranus Conjunction",
+      "type": "Lunar",
+      "time": "10:29",
+      "region": "Worldwide",
+      "description": "Moon-Uranus: 5.7° S"
+    },
+    "2027-02-17": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.2° N"
+    },
+    "2027-02-26": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "05:04",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.8° S"
+    },
+    "2027-02-27": {
+      "name": "Moon-Venus Conjunction",
+      "type": "Lunar",
+      "time": "03:52",
+      "region": "Worldwide",
+      "description": "Moon-Venus: 0.8° S"
+    },
+    "2027-03-01": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "17:41",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 3.2° N"
+    },
+    "2027-03-02": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "10:04",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.1° N"
+    },
+    "2027-03-04": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "10:04",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.5° N"
+    },
+    "2027-03-07": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "11:35",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 2.6° N"
+    },
+    "2027-03-10": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "22:51",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 6.2° N"
+    },
+    "2027-03-12": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "03:00",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 1.5° N"
+    },
+    "2027-03-13": {
+      "name": "Mercury Inferior Conjunction",
+      "type": "Planetary",
+      "time": "00:30",
+      "region": "Worldwide",
+      "description": "Mercury Inferior Conjunction"
+    },
+    "2027-03-17": {
+      "name": "Moon-Uranus Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Uranus: 5.7° S"
+    },
+    "2027-03-18": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "02:45",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.4° N"
+    },
+    "2027-03-22": {
+      "name": "Neptune Conjunction",
+      "type": "Planetary",
+      "time": "07:22",
+      "region": "Worldwide",
+      "description": "Neptune Conjunction"
+    },
+    "2027-03-25": {
+      "name": "Total Solar Eclipse",
+      "type": "Solar Eclipse",
+      "time": "00:00",
+      "region": "Worldwide",
+      "description": "Total Solar Eclipse"
+    },
+    "2027-03-28": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "21:15",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.9° S"
+    },
+    "2027-03-29": {
+      "name": "Moon-Venus Conjunction",
+      "type": "Lunar",
+      "time": "12:51",
+      "region": "Worldwide",
+      "description": "Moon-Venus: 1.4° S"
+    },
+    "2027-03-31": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "00:54",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 3.1° N"
+    },
+    "2027-04-01": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "16:21",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.3° N"
+    },
+    "2027-04-03": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "16:21",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.6° N"
+    },
+    "2027-04-06": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "18:25",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 2.7° N"
+    },
+    "2027-04-09": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "13:00",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 7.7° N"
+    },
+    "2027-04-11": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "10:13",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 1.5° N"
+    },
+    "2027-04-14": {
+      "name": "Moon-Neptune Conjunction",
+      "type": "Lunar",
+      "time": "14:13",
+      "region": "Worldwide",
+      "description": "Moon-Neptune: 5.1° S"
+    },
+    "2027-04-16": {
+      "name": "Moon-Uranus Conjunction",
+      "type": "Lunar",
+      "time": "03:52",
+      "region": "Worldwide",
+      "description": "Moon-Uranus: 5.7° S"
+    },
+    "2027-04-17": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "10:04",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.6° N"
+    },
+    "2027-04-22": {
+      "name": "Lyrid Shower",
+      "type": "Meteor Shower",
+      "time": "14:00",
+      "region": "Worldwide",
+      "description": "Lyrid Shower: ZHR = 20"
+    },
+    "2027-04-25": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "05:04",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 1° S"
+    },
+    "2027-04-27": {
+      "name": "Moon-Venus Conjunction",
+      "type": "Lunar",
+      "time": "03:33",
+      "region": "Worldwide",
+      "description": "Moon-Venus: 2.2° S"
+    },
+    "2027-04-28": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "08:18",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 3.1° N"
+    },
+    "2027-04-29": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "23:05",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.5° N"
+    },
+    "2027-05-01": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "23:05",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.8° N"
+    },
+    "2027-05-05": {
+      "name": "Eta Aquarid Shower",
+      "type": "Meteor Shower",
+      "time": "12:00",
+      "region": "Worldwide",
+      "description": "Eta Aquarid Shower: ZHR = 60"
+    },
+    "2027-05-07": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "00:51",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 2.8° N"
+    },
+    "2027-05-09": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "03:02",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 8.8° N"
+    },
+    "2027-05-11": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "16:46",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 1.5° N"
+    },
+    "2027-05-14": {
+      "name": "Moon-Neptune Conjunction",
+      "type": "Lunar",
+      "time": "22:58",
+      "region": "Worldwide",
+      "description": "Moon-Neptune: 5.1° S"
+    },
+    "2027-05-16": {
+      "name": "Moon-Uranus Conjunction",
+      "type": "Lunar",
+      "time": "12:00",
+      "region": "Worldwide",
+      "description": "Moon-Uranus: 5.6° S"
+    },
+    "2027-05-17": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "16:21",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.7° N"
+    },
+    "2027-05-20": {
+      "name": "Mercury Superior Conjunction",
+      "type": "Planetary",
+      "time": "23:44",
+      "region": "Worldwide",
+      "description": "Mercury Superior Conjunction"
+    },
+    "2027-05-22": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "12:51",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 1.1° S"
+    },
+    "2027-05-25": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "15:25",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 3.1° N"
+    },
+    "2027-05-27": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "07:22",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.6° N"
+    },
+    "2027-05-30": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "07:22",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.9° N"
+    },
+    "2027-06-03": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "09:05",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 2.9° N"
+    },
+    "2027-06-06": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "18:18",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 9.7° N"
+    },
+    "2027-06-07": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "23:05",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 1.6° N"
+    },
+    "2027-06-11": {
+      "name": "Moon-Neptune Conjunction",
+      "type": "Lunar",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "Moon-Neptune: 5.1° S"
+    },
+    "2027-06-13": {
+      "name": "Moon-Uranus Conjunction",
+      "type": "Lunar",
+      "time": "20:58",
+      "region": "Worldwide",
+      "description": "Moon-Uranus: 5.6° S"
+    },
+    "2027-06-14": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "23:44",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.8° N"
+    },
+    "2027-06-19": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "21:00",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 1.2° S"
+    },
+    "2027-06-21": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "18:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 25.7° E"
+    },
+    "2027-06-22": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "22:51",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 3.1° N"
+    },
+    "2027-06-24": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "14:15",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.8° N"
+    },
+    "2027-06-27": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "14:24",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 2° N"
+    },
+    "2027-06-30": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "16:21",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 3° N"
+    },
+     "2027-07-01": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "14:49",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 1.5° S"
+    },
+    "2027-07-02": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "06:30",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.9° S"
+    },
+    "2027-07-06": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "19:15",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 0.6° N"
+    },
+    "2027-07-10": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "15:25",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.3° N"
+    },
+    "2027-07-17": {
+      "name": "Mars-Regulus Conjunction",
+      "type": "Planetary",
+      "time": "07:05",
+      "region": "Worldwide",
+      "description": "Mars-Regulus: 0.7° N"
+    },
+    "2027-07-19": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "08:47",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3.4° S"
+    },
+    "2027-07-22": {
+      "name": "Mercury-Pollux Conjunction",
+      "type": "Planetary",
+      "time": "00:51",
+      "region": "Worldwide",
+      "description": "Mercury-Pollux: 5° S"
+    },
+    "2027-07-23": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "07:59",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.6° S"
+    },
+    "2027-07-24": {
+      "name": "Jupiter Conjunction",
+      "type": "Planetary",
+      "time": "20:06",
+      "region": "Worldwide",
+      "description": "Jupiter Conjunction"
+    },
+    "2027-07-27": [
+      {
+        "name": "Moon-Mercury Conjunction",
+        "type": "Lunar",
+        "time": "11:02",
+        "region": "Worldwide",
+        "description": "Moon-Mercury: 2.9° S"
+      },
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "22:42",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 2.1° S"
+      }
+    ],
+    "2027-07-29": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "15:26",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.6° S"
+    },
+    "2027-07-30": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "06:05",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 0.2° S"
+    },
+    "2027-08-01": {
+      "name": "Venus: 43.4° W",
+      "type": "Planetary",
+      "time": null,
+      "region": "Worldwide",
+      "description": "Venus at 43.4° W elongation"
+    },
+    "2027-08-02": {
+      "name": "Mercury-Beehive Conjunction",
+      "type": "Planetary",
+      "time": "22:39",
+      "region": "Worldwide",
+      "description": "Mercury-Beehive: 1.3° S"
+    },
+    "2027-08-04": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "02:39",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 0.9° N"
+      },
+      {
+        "name": "Mercury Elongation",
+        "type": "Planetary",
+        "time": "08:59",
+        "region": "Worldwide",
+        "description": "Mercury Elongation: 25.9° E"
+      },
+      {
+        "name": "Venus-Pleiades Conjunction",
+        "type": "Planetary",
+        "time": "20:44",
+        "region": "Worldwide",
+        "description": "Venus-Pleiades: 6.6° S"
+      }
+    ],
+    "2027-08-07": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "22:37",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.4° N"
+    },
+    "2027-08-13": {
+      "name": "Venus-Aldebaran Conjunction",
+      "type": "Planetary",
+      "time": "13:29",
+      "region": "Worldwide",
+      "description": "Venus-Aldebaran: 3.1° N"
+    },
+    "2027-08-16": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "15:19",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3.9° S"
+    },
+    "2027-08-20": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "15:27",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.8° S"
+    },
+    "2027-08-23": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "09:20",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 5° S"
+    },
+    "2027-08-27": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "00:44",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.4° S"
+    },
+    "2027-08-28": {
+      "name": "Delta Aquarid Shower",
+      "type": "Meteor Shower",
+      "time": "08:53",
+      "region": "Worldwide",
+      "description": "Delta Aquarid Shower: ZHR = 20"
+    },
+    "2027-08-29": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "00:45",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 1.4° N"
+    },
+    "2027-08-31": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "10:45",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.1° N"
+    },
+    "2027-09-01": [
+      {
+        "name": "Mercury Inferior Conjunction",
+        "type": "Planetary",
+        "time": "04:35",
+        "region": "Worldwide",
+        "description": "Mercury Inferior Conjunction"
+      },
+      {
+        "name": "Venus: 38° W",
+        "type": "Planetary",
+        "time": null,
+        "region": "Worldwide",
+        "description": "Venus at 38° W elongation"
+      }
+    ],
+    "2027-09-04": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "06:40",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.6° N"
+    },
+    "2027-09-12": [
+      {
+        "name": "Venus-Jupiter Conjunction",
+        "type": "Planetary",
+        "time": "11:53",
+        "region": "Worldwide",
+        "description": "Venus-Jupiter: 0.9° N"
+      },
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "20:05",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 4.1° S"
+      }
+    ],
+    "2027-09-13": {
+      "name": "Perseid Shower",
+      "type": "Meteor Shower",
+      "time": "00:47",
+      "region": "Worldwide",
+      "description": "Perseid Shower: ZHR = 90"
+    },
+    "2027-09-16": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "21:09",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.9° S"
+    },
+    "2027-09-19": [
+      {
+        "name": "Mercury-Beehive Conjunction",
+        "type": "Planetary",
+        "time": "09:58",
+        "region": "Worldwide",
+        "description": "Mercury-Beehive: 2.6° S"
+      },
+      {
+        "name": "Mercury Elongation",
+        "type": "Planetary",
+        "time": "14:59",
+        "region": "Worldwide",
+        "description": "Mercury Elongation: 18.6° W"
+      }
+    ],
+    "2027-09-20": [
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "02:05",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 4.9° S"
+      },
+      {
+        "name": "Moon-Venus Conjunction",
+        "type": "Lunar",
+        "time": "15:51",
+        "region": "Worldwide",
+        "description": "Moon-Venus: 5° S"
+      },
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "17:07",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.5° N"
+      }
+    ],
+    "2027-09-21": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "16:09",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 2.1° S"
+    },
+    "2027-09-26": {
+      "name": "Moon-Mars Conjunction",
+      "type": "Lunar",
+      "time": "21:41",
+      "region": "Worldwide",
+      "description": "Moon-Mars: 3° N"
+    },
+    "2027-09-27": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "18:57",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.2° N"
+    },
+    "2027-09-31": [
+      {
+        "name": "Moon-Antares Conjunction",
+        "type": "Lunar",
+        "time": "14:55",
+        "region": "Worldwide",
+        "description": "Moon-Antares: 0.7° N"
+      },
+      {
+        "name": "Venus-Beehive Conjunction",
+        "type": "Planetary",
+        "time": "22:59",
+        "region": "Worldwide",
+        "description": "Venus-Beehive: 1.5° S"
+      }
+    ],
+    "2027-10-01": {
+      "name": "Venus: 31.2° W",
+      "type": "Planetary",
+      "time": null,
+      "region": "Worldwide",
+      "description": "Venus at 31.2° W elongation"
+    },
+    "2027-10-07": {
+      "name": "Total Lunar Eclipse",
+      "type": "Lunar Eclipse",
+      "time": "23:13",
+      "region": "Worldwide",
+      "description": "Total Lunar Eclipse"
+    },
+    "2027-10-09": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "01:09",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 4° S"
+    },
+    "2027-10-13": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "02:48",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 1° S"
+      },
+      {
+        "name": "Mars-Spica Conjunction",
+        "type": "Planetary",
+        "time": "08:28",
+        "region": "Worldwide",
+        "description": "Mars-Spica: 2.2° N"
+      },
+      {
+        "name": "Mercury Superior Conjunction",
+        "type": "Planetary",
+        "time": "15:46",
+        "region": "Worldwide",
+        "description": "Mercury Superior Conjunction"
+      }
+    ],
+    "2027-10-16": [
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "16:06",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 4.7° S"
+      },
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "22:58",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.5° N"
+      }
+    ],
+    "2027-10-17": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "22:24",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 2.1° S"
+    },
+    "2027-10-19": [
+      {
+        "name": "Venus-Regulus Conjunction",
+        "type": "Planetary",
+        "time": "13:59",
+        "region": "Worldwide",
+        "description": "Venus-Regulus: 0.5° N"
+      },
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "16:11",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 1.4° S"
+      },
+      {
+        "name": "Moon-Venus Conjunction",
+        "type": "Lunar",
+        "time": "16:46",
+        "region": "Worldwide",
+        "description": "Moon-Venus: 0.9° S"
+      }
+    ],
+    "2027-10-21": {
+      "name": "Saturn Opposition",
+      "type": "Planetary",
+      "time": "10:10",
+      "region": "Worldwide",
+      "description": "Saturn Opposition"
+    },
+    "2027-10-22": {
+      "name": "Partial Solar Eclipse",
+      "type": "Solar Eclipse",
+      "time": "00:42",
+      "region": "Worldwide",
+      "description": "Partial Solar Eclipse"
+    },
+    "2027-10-23": {
+      "name": "Neptune Opposition",
+      "type": "Planetary",
+      "time": "16:29",
+      "region": "Worldwide",
+      "description": "Neptune Opposition"
+    },
+    "2027-10-24": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "02:31",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 1.2° N"
+      },
+      {
+        "name": "Moon-Mars Conjunction",
+        "type": "Lunar",
+        "time": "19:50",
+        "region": "Worldwide",
+        "description": "Moon-Mars: 4.3° N"
+      }
+    ],
+    "2027-10-27": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "22:34",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2027-10-30": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "02:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 23.9° E"
+    },
+    "2027-11-01": {
+      "name": "Venus: 23.9° W",
+      "type": "Planetary",
+      "time": null,
+      "region": "Worldwide",
+      "description": "Venus at 23.9° W elongation"
+    },
+    "2027-11-06": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "07:46",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3.8° S"
+    },
+    "2027-11-09": {
+      "name": "Jupiter-Pollux Conjunction",
+      "type": "Planetary",
+      "time": "02:08",
+      "region": "Worldwide",
+      "description": "Jupiter-Pollux: 6.7° S"
+    },
+    "2027-11-10": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "10:20",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.9° S"
+    },
+    "2027-11-14": [
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "03:31",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 4.4° S"
+      },
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "04:30",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.6° N"
+      }
+    ],
+    "2027-11-15": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "03:53",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 2° S"
+    },
+    "2027-11-16": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "21:56",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.4° S"
+    },
+    "2027-11-20": [
+      {
+        "name": "Mercury-Mars Conjunction",
+        "type": "Planetary",
+        "time": "01:25",
+        "region": "Worldwide",
+        "description": "Mercury-Mars: 2° N"
+      },
+      {
+        "name": "Moon-Venus Conjunction",
+        "type": "Lunar",
+        "time": "02:37",
+        "region": "Worldwide",
+        "description": "Moon-Venus: 4° N"
+      }
+    ],
+    "2027-11-21": {
+      "name": "Orionid Shower",
+      "type": "Meteor Shower",
+      "time": "17:07",
+      "region": "Worldwide",
+      "description": "Orionid Shower: ZHR = 20"
+    },
+    "2027-11-23": {
+      "name": "Moon-Mercury Conjunction",
+      "type": "Lunar",
+      "time": "21:15",
+      "region": "Worldwide",
+      "description": "Moon-Mercury: 2.5° N"
+    },
+    "2027-11-25": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "05:15",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.6° N"
+    },
+    "2027-11-30": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "02:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 23.9° E"
+    },
+    "2027-12-01": {
+      "name": "Venus: 16.2° W",
+      "type": "Planetary",
+      "time": null,
+      "region": "Worldwide",
+      "description": "Venus at 16.2° W elongation"
+    },
+    "2027-12-02": [
+      {
+        "name": "Venus-Spica Conjunction",
+        "type": "Planetary",
+        "time": "06:04",
+        "region": "Worldwide",
+        "description": "Venus-Spica: 3.5° N"
+      },
+      {
+        "name": "Moon-Saturn Conjunction",
+        "type": "Lunar",
+        "time": "15:46",
+        "region": "Worldwide",
+        "description": "Moon-Saturn: 3.7° S"
+      }
+    ],
+    "2027-12-05": {
+      "name": "South Taurid Shower",
+      "type": "Meteor Shower",
+      "time": "17:36",
+      "region": "Worldwide",
+      "description": "South Taurid Shower: ZHR = 10"
+    },
+    "2027-12-06": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "20:26",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.8° S"
+    },
+    "2027-12-09": {
+      "name": "Mercury-Antares Conjunction",
+      "type": "Planetary",
+      "time": "07:45",
+      "region": "Worldwide",
+      "description": "Mercury-Antares: 3.6° N"
+    },
+    "2027-12-10": [
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "11:40",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.7° N"
+      },
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "12:56",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 4° S"
+      }
+    ],
+    "2027-12-11": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "10:03",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 2.1° S"
+    },
+    "2027-12-13": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "04:21",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.5° S"
+    },
+    "2027-12-14": {
+      "name": "Geminid Shower",
+      "type": "Meteor Shower",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Geminid Shower: ZHR = 120"
+    },
+    "2027-12-15": [
+      {
+        "name": "Mars-Saturn Conjunction",
+        "type": "Planetary",
+        "time": "00:15",
+        "region": "Worldwide",
+        "description": "Mars-Saturn: 0.5° N"
+      },
+      {
+        "name": "Moon-Mars Conjunction",
+        "type": "Lunar",
+        "time": "11:24",
+        "region": "Worldwide",
+        "description": "Moon-Mars: 3.3° N"
+      },
+      {
+        "name": "Mercury Inferior Conjunction",
+        "type": "Planetary",
+        "time": "20:39",
+        "region": "Worldwide",
+        "description": "Mercury Inferior Conjunction"
+      },
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "21:00",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 1.2° N"
+      }
+    ],
+    "2027-12-17": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "14:02",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2027-12-22": [
+      {
+        "name": "Ursid Shower",
+        "type": "Meteor Shower",
+        "time": "10:00",
+        "region": "Worldwide",
+        "description": "Ursid Shower: ZHR = 10"
+      },
+      {
+        "name": "Uranus Opposition",
+        "type": "Planetary",
+        "time": "16:20",
+        "region": "Worldwide",
+        "description": "Uranus Opposition"
+      }
+    ],
+    "2027-12-23": {
+      "name": "Moon-Mercury Conjunction",
+      "type": "Lunar",
+      "time": "02:30",
+      "region": "Worldwide",
+      "description": "Moon-Mercury: 3.8° N"
+    },
+    "2027-12-24": {
+      "name": "Moon-Venus Conjunction",
+      "type": "Lunar",
+      "time": "12:47",
+      "region": "Worldwide",
+      "description": "Moon-Venus: 3.6° N"
+    },
+    "2027-12-30": {
+      "name": "Venus Elongation",
+      "type": "Planetary",
+      "time": "20:59",
+      "region": "Worldwide",
+      "description": "Venus Elongation: 47.9° E"
+    },
+    "2028-01-01": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "23:44",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3.5° S"
+    },
+    "2028-01-03": {
+      "name": "Quadrantid Shower",
+      "type": "Meteor Shower",
+      "time": "07:07",
+      "region": "Worldwide",
+      "description": "Quadrantid Shower: ZHR = 120"
+    },
+    "2028-01-04": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "06:17",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.7° S"
+    },
+    "2028-01-07": {
+      "name": "Mercury Superior Conjunction",
+      "type": "Planetary",
+      "time": "15:28",
+      "region": "Worldwide",
+      "description": "Mercury Superior Conjunction"
+    },
+    "2028-01-08": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "17:15",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.7° N"
+    },
+    "2028-01-09": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 3.6° S"
+    },
+    "2028-01-11": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "15:52",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 2.1° S"
+    },
+    "2028-01-13": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "09:37",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.5° S"
+    },
+    "2028-01-17": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "05:07",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 1.2° N"
+      },
+      {
+        "name": "Moon-Mars Conjunction",
+        "type": "Lunar",
+        "time": "10:39",
+        "region": "Worldwide",
+        "description": "Moon-Mars: 4.5° N"
+      }
+    ],
+    "2028-01-20": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2028-01-21": {
+      "name": "Mercury-Jupiter Conjunction",
+      "type": "Planetary",
+      "time": "07:37",
+      "region": "Worldwide",
+      "description": "Mercury-Jupiter: 0.4° N"
+    },
+    "2028-01-23": {
+      "name": "Moon-Venus Conjunction",
+      "type": "Lunar",
+      "time": "04:39",
+      "region": "Worldwide",
+      "description": "Moon-Venus: 3.5° N"
+    },
+    "2028-01-25": {
+      "name": "Mercury-Uranus Conjunction",
+      "type": "Planetary",
+      "time": "07:05",
+      "region": "Worldwide",
+      "description": "Mercury-Uranus: 1° S"
+    },
+    "2028-01-28": {
+      "name": "Venus Elongation",
+      "type": "Planetary",
+      "time": "00:59",
+      "region": "Worldwide",
+      "description": "Venus Elongation: 47.9° E"
+    },
+    "2028-01-29": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "08:18",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3.4° S"
+    },
+    "2028-01-31": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "12:12",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.6° S"
+    },
+    "2028-02-04": [
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "01:23",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.8° N"
+      },
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "03:19",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 3.3° S"
+      }
+    ],
+    "2028-02-07": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "00:08",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 2° S"
+    },
+    "2028-02-09": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "15:20",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.4° S"
+    },
+    "2028-02-13": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "12:20",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.2° N"
+    },
+    "2028-02-16": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "06:17",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2028-02-21": {
+      "name": "Mercury Inferior Conjunction",
+      "type": "Planetary",
+      "time": "02:27",
+      "region": "Worldwide",
+      "description": "Mercury Inferior Conjunction"
+    },
+    "2028-02-22": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "17:15",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3.3° S"
+    },
+    "2028-02-23": {
+      "name": "Total Solar Eclipse",
+      "type": "Solar Eclipse",
+      "time": "01:45",
+      "region": "Worldwide",
+      "description": "Total Solar Eclipse"
+    },
+    "2028-02-27": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "17:46",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.6° S"
+    },
+    "2028-02-29": {
+      "name": "Venus Elongation",
+      "type": "Planetary",
+      "time": "16:59",
+      "region": "Worldwide",
+      "description": "Venus Elongation: 29.8° W"
+    },
+    "2028-03-01": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "09:30",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2028-03-02": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "11:51",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 2.8° S"
+    },
+    "2028-03-05": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "09:53",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.8° S"
+    },
+    "2028-03-07": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "21:30",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.4° S"
+    },
+    "2028-03-12": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.2° N"
+    },
+    "2028-03-14": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "12:12",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2028-03-16": {
+      "name": "Jupiter Opposition",
+      "type": "Planetary",
+      "time": "04:58",
+      "region": "Worldwide",
+      "description": "Jupiter Opposition"
+    },
+    "2028-03-21": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "07:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 27.8° W"
+    },
+    "2028-03-22": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "02:49",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3.2° S"
+    },
+    "2028-03-26": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "01:28",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.6° S"
+    },
+    "2028-03-28": [
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "19:40",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.8° N"
+      },
+      {
+        "name": "Moon-Mercury Conjunction",
+        "type": "Lunar",
+        "time": "21:28",
+        "region": "Worldwide",
+        "description": "Moon-Mercury: 1.6° S"
+      }
+    ],
+    "2028-03-29": [
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "00:08",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 2.2° S"
+      },
+      {
+        "name": "Total Lunar Eclipse",
+        "type": "Lunar Eclipse",
+        "time": "10:33",
+        "region": "Worldwide",
+        "description": "Total Lunar Eclipse"
+      }
+    ],
+    "2028-04-01": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.7° S"
+    },
+    "2028-04-04": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "02:30",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.3° S"
+    },
+    "2028-04-08": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "02:18",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.3° N"
+    },
+    "2028-04-11": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2028-04-21": {
+      "name": "Lyrid Shower",
+      "type": "Meteor Shower",
+      "time": "17:53",
+      "region": "Worldwide",
+      "description": "Lyrid Shower: ZHR = 20"
+    },
+    "2028-04-22": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "12:12",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3° S"
+    },
+    "2028-04-23": {
+      "name": "Mercury-Uranus Conjunction",
+      "type": "Planetary",
+      "time": "05:07",
+      "region": "Worldwide",
+      "description": "Mercury-Uranus: 1.2° N"
+    },
+    "2028-04-25": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2028-04-27": [
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "03:53",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.8° N"
+      },
+      {
+        "name": "Partial Solar Eclipse",
+        "type": "Solar Eclipse",
+        "time": "14:14",
+        "region": "Worldwide",
+        "description": "Partial Solar Eclipse"
+      },
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "05:59",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 1.6° S"
+      }
+    ],
+    "2028-04-28": {
+      "name": "Moon-Mercury Conjunction",
+      "type": "Lunar",
+      "time": "03:52",
+      "region": "Worldwide",
+      "description": "Moon-Mercury: 1.1° S"
+    },
+    "2028-04-29": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "04:39",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.6° S"
+    },
+    "2028-05-01": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.3° S"
+    },
+    "2028-05-02": {
+      "name": "Mercury Superior Conjunction",
+      "type": "Planetary",
+      "time": "00:39",
+      "region": "Worldwide",
+      "description": "Mercury Superior Conjunction"
+    },
+    "2028-05-05": [
+      {
+        "name": "Eta Aquarid Shower",
+        "type": "Meteor Shower",
+        "time": "07:07",
+        "region": "Worldwide",
+        "description": "Eta Aquarid Shower: ZHR = 60"
+      },
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "10:39",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 1.3° N"
+      }
+    ],
+    "2028-05-09": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "01:28",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2028-05-19": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "21:30",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.9° S"
+    },
+    "2028-05-22": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "15:20",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2028-05-24": [
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "10:51",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 0.9° S"
+      },
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "11:51",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.8° N"
+      }
+    ],
+    "2028-05-26": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "10:37",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.5° S"
+    },
+    "2028-05-28": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "15:52",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.3° S"
+    },
+    "2028-06-01": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "19:50",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.3° N"
+    },
+    "2028-06-05": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "08:18",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2028-06-11": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "09:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 24.4° E"
+    },
+    "2028-06-16": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "07:07",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.9° S"
+    },
+    "2028-06-19": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "21:30",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2028-06-20": {
+      "name": "Uranus Conjunction",
+      "type": "Planetary",
+      "time": "07:07",
+      "region": "Worldwide",
+      "description": "Uranus Conjunction"
+    },
+    "2028-06-21": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 0.2° S"
+    },
+    "2028-06-22": {
+      "name": "Mercury Inferior Conjunction",
+      "type": "Planetary",
+      "time": "03:52",
+      "region": "Worldwide",
+      "description": "Mercury Inferior Conjunction"
+    },
+    "2028-06-23": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2028-06-24": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "18:15",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.5° S"
+    },
+    "2028-06-26": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "00:52",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.2° S"
+    },
+    "2028-06-29": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "04:39",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.4° N"
+    },
+    "2028-07-02": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "14:14",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2028-07-06": {
+      "name": "Venus Superior Conjunction",
+      "type": "Planetary",
+      "time": "06:17",
+      "region": "Worldwide",
+      "description": "Venus Superior Conjunction"
+    },
+    "2028-07-13": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "16:17",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.9° S"
+    },
+    "2028-07-17": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "04:02",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2028-07-18": [
+      {
+        "name": "Mercury Elongation",
+        "type": "Planetary",
+        "time": "08:59",
+        "region": "Worldwide",
+        "description": "Mercury Elongation: 22.8° W"
+      },
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "00:07",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 0.6° N"
+      }
+    ],
+    "2028-07-20": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "02:03",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2028-07-21": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "01:27",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.5° S"
+    },
+    "2028-07-23": [
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "07:22",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 1.2° S"
+      },
+      {
+        "name": "Mars Opposition",
+        "type": "Planetary",
+        "time": "08:00",
+        "region": "Worldwide",
+        "description": "Mars Opposition"
+      }
+    ],
+    "2028-07-26": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "10:39",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.4° N"
+    },
+    "2028-07-28": {
+      "name": "Delta Aquarid Shower",
+      "type": "Meteor Shower",
+      "time": "08:53",
+      "region": "Worldwide",
+      "description": "Delta Aquarid Shower: ZHR = 20"
+    },
+    "2028-07-29": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "20:36",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2028-08-09": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.8° S"
+    },
+    "2028-08-13": [
+      {
+        "name": "Perseid Shower",
+        "type": "Meteor Shower",
+        "time": "00:47",
+        "region": "Worldwide",
+        "description": "Perseid Shower: ZHR = 90"
+      },
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "10:03",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.5° S"
+      }
+    ],
+    "2028-08-14": {
+      "name": "Jupiter-Uranus Conjunction",
+      "type": "Planetary",
+      "time": "03:19",
+      "region": "Worldwide",
+      "description": "Jupiter-Uranus: 0.8° S"
+    },
+    "2028-08-15": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "05:07",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 1.4° N"
+    },
+    "2028-08-16": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2028-08-18": [
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "07:22",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 1.5° S"
+      },
+      {
+        "name": "Moon-Mercury Conjunction",
+        "type": "Lunar",
+        "time": "17:19",
+        "region": "Worldwide",
+        "description": "Moon-Mercury: 3.5° N"
+      }
+    ],
+    "2028-08-20": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "12:56",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.1° S"
+    },
+    "2028-08-23": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "16:51",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.5° N"
+    },
+    "2028-08-26": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "02:30",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2028-08-28": {
+      "name": "Mercury Superior Conjunction",
+      "type": "Planetary",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Mercury Superior Conjunction"
+    },
+    "2028-09-05": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "12:12",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.8° S"
+    },
+    "2028-09-09": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "17:28",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2028-09-10": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "10:37",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 2.1° N"
+    },
+    "2028-09-12": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "16:26",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2028-09-14": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "13:59",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.5° S"
+    },
+    "2028-09-16": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.2° S"
+    },
+    "2028-09-20": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "00:44",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.5° N"
+    },
+    "2028-09-21": {
+      "name": "Autumnal Equinox",
+      "type": "Seasonal",
+      "time": "10:15",
+      "region": "Worldwide",
+      "description": "Autumnal Equinox"
+    },
+    "2028-09-23": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2028-10-02": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "20:53",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.7° S"
+    },
+    "2028-10-06": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "23:44",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.4° S"
+    },
+    "2028-10-07": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "07:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 25.4° E"
+    },
+    "2028-10-08": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 2.8° N"
+    },
+    "2028-10-10": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2028-10-11": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "20:53",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.4° S"
+    },
+    "2028-10-13": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "02:21",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.1° S"
+    },
+    "2028-10-17": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "06:51",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.5° N"
+    },
+    "2028-10-21": {
+      "name": "Orionid Shower",
+      "type": "Meteor Shower",
+      "time": "17:07",
+      "region": "Worldwide",
+      "description": "Orionid Shower: ZHR = 20"
+    },
+    "2028-10-22": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "15:19",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2028-10-25": {
+      "name": "Partial Lunar Eclipse",
+      "type": "Lunar Eclipse",
+      "time": "03:29",
+      "region": "Worldwide",
+      "description": "Pen. Lunar Eclipse"
+    },
+    "2028-10-30": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "05:07",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.7° S"
+    },
+    "2028-11-05": {
+      "name": "South Taurid Shower",
+      "type": "Meteor Shower",
+      "time": "17:36",
+      "region": "Worldwide",
+      "description": "South Taurid Shower: ZHR = 10"
+    },
+    "2028-11-06": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "05:40",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.4° S"
+      },
+      {
+        "name": "Mercury Inferior Conjunction",
+        "type": "Planetary",
+        "time": "09:07",
+        "region": "Worldwide",
+        "description": "Mercury Inferior Conjunction"
+      }
+    ],
+    "2028-11-07": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "02:30",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 3.4° N"
+    },
+    "2028-11-08": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "08:18",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2028-11-10": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "03:52",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.4° S"
+    },
+    "2028-11-12": [
+      {
+        "name": "North Taurid Shower",
+        "type": "Meteor Shower",
+        "time": "08:53",
+        "region": "Worldwide",
+        "description": "North Taurid Shower: ZHR = 10"
+      },
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "07:22",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 1.1° S"
+      }
+    ],
+    "2028-11-17": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "12:56",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.6° N"
+    },
+    "2028-11-18": {
+      "name": "Leonid Shower",
+      "type": "Meteor Shower",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Leonid Shower: ZHR = 15"
+    },
+    "2028-11-20": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "22:18",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2028-11-23": {
+      "name": "Total Solar Eclipse",
+      "type": "Solar Eclipse",
+      "time": "15:28",
+      "region": "Worldwide",
+      "description": "Total Solar Eclipse"
+    },
+    "2028-11-27": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "13:59",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.8° S"
+    },
+    "2028-12-03": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "11:51",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.4° S"
+    },
+    "2028-12-04": [
+      {
+        "name": "Mercury Elongation",
+        "type": "Planetary",
+        "time": "04:58",
+        "region": "Worldwide",
+        "description": "Mercury Elongation: 21° W"
+      },
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "09:58",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 3.7° N"
+      }
+    ],
+    "2028-12-05": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "15:46",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2028-12-07": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "09:58",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.4° S"
+    },
+    "2028-12-09": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "14:13",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.1° S"
+    },
+    "2028-12-13": {
+      "name": "Uranus Opposition",
+      "type": "Planetary",
+      "time": "02:21",
+      "region": "Worldwide",
+      "description": "Uranus Opposition"
+    },
+    "2028-12-14": {
+      "name": "Geminid Shower",
+      "type": "Meteor Shower",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Geminid Shower: ZHR = 120"
+    },
+    "2028-12-16": {
+      "name": "Mercury Inferior Conj.",
+      "type": "Planetary",
+      "time": "00:06",
+      "region": "Worldwide",
+      "description": "Mercury Inferior Conj."
+    },
+    "2028-12-20": {
+      "name": "Moon-Spica",
+      "type": "Lunar",
+      "time": "07:22",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.7° N"
+    },
+    "2028-12-23": {
+      "name": "Ursid Shower",
+      "type": "Meteor Shower",
+      "time": "04:00",
+      "region": "Worldwide",
+      "description": "Ursid Shower: ZHR = 10"
+    },
+    "2029-01-01": {
+      "name": "Quadrantid Shower",
+      "type": "Meteor Shower",
+      "time": "07:07",
+      "region": "Worldwide",
+      "description": "Quadrantid Shower: ZHR = 120"
+    },
+    "2029-01-04": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "06:17",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.7° S"
+    },
+    "2029-01-07": {
+      "name": "Mercury Superior Conjunction",
+      "type": "Planetary",
+      "time": "15:28",
+      "region": "Worldwide",
+      "description": "Mercury Superior Conjunction"
+    },
+    "2029-01-08": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "17:15",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.7° N"
+    },
+    "2029-01-09": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 3.6° S"
+    },
+    "2029-01-11": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "15:52",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 2.1° S"
+    },
+    "2029-01-13": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "09:37",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.5° S"
+    },
+    "2029-01-17": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "05:07",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 1.2° N"
+      },
+      {
+        "name": "Moon-Mars Conjunction",
+        "type": "Lunar",
+        "time": "10:39",
+        "region": "Worldwide",
+        "description": "Moon-Mars: 4.5° N"
+      }
+    ],
+    "2029-01-20": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2029-01-21": {
+      "name": "Mercury-Jupiter Conjunction",
+      "type": "Planetary",
+      "time": "07:37",
+      "region": "Worldwide",
+      "description": "Mercury-Jupiter: 0.4° N"
+    },
+    "2029-01-23": {
+      "name": "Moon-Venus Conjunction",
+      "type": "Lunar",
+      "time": "04:39",
+      "region": "Worldwide",
+      "description": "Moon-Venus: 3.5° N"
+    },
+    "2029-01-25": {
+      "name": "Mercury-Uranus Conjunction",
+      "type": "Planetary",
+      "time": "07:05",
+      "region": "Worldwide",
+      "description": "Mercury-Uranus: 1° S"
+    },
+    "2029-01-28": {
+      "name": "Venus Elongation",
+      "type": "Planetary",
+      "time": "00:59",
+      "region": "Worldwide",
+      "description": "Venus Elongation: 47.9° E"
+    },
+    "2029-01-29": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "08:18",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3.4° S"
+    },
+    "2029-01-31": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "12:12",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.6° S"
+    },
+    "2029-02-04": [
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "01:23",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.8° N"
+      },
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "03:19",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 3.3° S"
+      }
+    ],
+    "2029-02-07": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "00:08",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 2° S"
+    },
+    "2029-02-09": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "15:20",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.4° S"
+    },
+    "2029-02-13": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "12:20",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.2° N"
+    },
+    "2029-02-16": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "06:17",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2029-02-21": {
+      "name": "Mercury Inferior Conjunction",
+      "type": "Planetary",
+      "time": "02:27",
+      "region": "Worldwide",
+      "description": "Mercury Inferior Conjunction"
+    },
+    "2029-02-22": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "17:15",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3.3° S"
+    },
+    "2029-02-23": {
+      "name": "Total Solar Eclipse",
+      "type": "Solar Eclipse",
+      "time": "01:45",
+      "region": "Worldwide",
+      "description": "Total Solar Eclipse"
+    },
+    "2029-02-27": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "17:46",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.6° S"
+    },
+    "2029-02-29": {
+      "name": "Venus Elongation",
+      "type": "Planetary",
+      "time": "16:59",
+      "region": "Worldwide",
+      "description": "Venus Elongation: 29.8° W"
+    },
+    "2029-03-01": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "09:30",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2029-03-02": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "11:51",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 2.8° S"
+    },
+    "2029-03-05": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "09:53",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.8° S"
+    },
+    "2029-03-07": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "21:30",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.4° S"
+    },
+    "2029-03-12": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.2° N"
+    },
+    "2029-03-14": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "12:12",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2029-03-16": {
+      "name": "Jupiter Opposition",
+      "type": "Planetary",
+      "time": "04:58",
+      "region": "Worldwide",
+      "description": "Jupiter Opposition"
+    },
+    "2029-03-21": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "07:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 27.8° W"
+    },
+    "2029-03-22": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "02:49",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3.2° S"
+    },
+    "2029-03-26": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "01:28",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.6° S"
+    },
+    "2029-03-28": [
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "19:40",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.8° N"
+      },
+      {
+        "name": "Moon-Mercury Conjunction",
+        "type": "Lunar",
+        "time": "21:28",
+        "region": "Worldwide",
+        "description": "Moon-Mercury: 1.6° S"
+      }
+    ],
+    "2029-03-29": [
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "00:08",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 2.2° S"
+      },
+      {
+        "name": "Total Lunar Eclipse",
+        "type": "Lunar Eclipse",
+        "time": "10:33",
+        "region": "Worldwide",
+        "description": "Total Lunar Eclipse"
+      }
+    ],
+    "2029-04-01": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.7° S"
+    },
+    "2029-04-04": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "02:30",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.3° S"
+    },
+    "2029-04-08": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "02:18",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.3° N"
+    },
+    "2029-04-11": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2029-04-21": {
+      "name": "Lyrid Shower",
+      "type": "Meteor Shower",
+      "time": "17:53",
+      "region": "Worldwide",
+      "description": "Lyrid Shower: ZHR = 20"
+    },
+    "2029-04-22": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "12:12",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3° S"
+    },
+    "2029-04-23": {
+      "name": "Mercury-Uranus Conjunction",
+      "type": "Planetary",
+      "time": "05:07",
+      "region": "Worldwide",
+      "description": "Mercury-Uranus: 1.2° N"
+    },
+    "2029-04-25": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2029-04-27": [
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "03:53",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.8° N"
+      },
+      {
+        "name": "Partial Solar Eclipse",
+        "type": "Solar Eclipse",
+        "time": "14:14",
+        "region": "Worldwide",
+        "description": "Partial Solar Eclipse"
+      },
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "05:59",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 1.6° S"
+      }
+    ],
+    "2029-04-28": {
+      "name": "Moon-Mercury Conjunction",
+      "type": "Lunar",
+      "time": "03:52",
+      "region": "Worldwide",
+      "description": "Moon-Mercury: 1.1° S"
+    },
+    "2029-04-29": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "04:39",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.6° S"
+    },
+    "2029-05-01": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.3° S"
+    },
+    "2029-05-02": {
+      "name": "Mercury Superior Conjunction",
+      "type": "Planetary",
+      "time": "00:39",
+      "region": "Worldwide",
+      "description": "Mercury Superior Conjunction"
+    },
+    "2029-05-05": [
+      {
+        "name": "Eta Aquarid Shower",
+        "type": "Meteor Shower",
+        "time": "07:07",
+        "region": "Worldwide",
+        "description": "Eta Aquarid Shower: ZHR = 60"
+      },
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "10:39",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 1.3° N"
+      }
+    ],
+    "2029-05-09": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "01:28",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2029-05-19": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "21:30",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.9° S"
+    },
+    "2029-05-22": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "15:20",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2029-05-24": [
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "10:51",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 0.9° S"
+      },
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "11:51",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.8° N"
+      }
+    ],
+    "2029-05-26": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "10:37",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.5° S"
+    },
+    "2029-05-28": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "15:52",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.3° S"
+    },
+    "2029-06-01": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "19:50",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.3° N"
+    },
+    "2029-06-05": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "08:18",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2029-06-11": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "09:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 24.4° E"
+    },
+    "2029-06-16": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "07:07",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.9° S"
+    },
+    "2029-06-19": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "21:30",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2029-06-20": {
+      "name": "Uranus Conjunction",
+      "type": "Planetary",
+      "time": "07:07",
+      "region": "Worldwide",
+      "description": "Uranus Conjunction"
+    },
+    "2029-06-21": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 0.2° S"
+    },
+    "2029-06-22": {
+      "name": "Mercury Inferior Conjunction",
+      "type": "Planetary",
+      "time": "03:52",
+      "region": "Worldwide",
+      "description": "Mercury Inferior Conjunction"
+    },
+    "2029-06-23": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2029-06-24": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "18:15",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.5° S"
+    },
+    "2029-06-26": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "00:52",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.2° S"
+    },
+    "2029-06-29": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "04:39",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.4° N"
+    },
+    "2029-07-02": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "14:14",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2029-07-06": {
+      "name": "Venus Superior Conjunction",
+      "type": "Planetary",
+      "time": "06:17",
+      "region": "Worldwide",
+      "description": "Venus Superior Conjunction"
+    },
+    "2029-07-13": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "16:17",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.9° S"
+    },
+    "2029-07-17": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "04:02",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2029-07-18": [
+      {
+        "name": "Mercury Elongation",
+        "type": "Planetary",
+        "time": "08:59",
+        "region": "Worldwide",
+        "description": "Mercury Elongation: 22.8° W"
+      },
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "00:07",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 0.6° N"
+      }
+    ],
+    "2029-07-20": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "02:03",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2029-07-21": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "01:27",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.5° S"
+    },
+    "2029-07-23": [
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "07:22",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 1.2° S"
+      },
+      {
+        "name": "Mars Opposition",
+        "type": "Planetary",
+        "time": "08:00",
+        "region": "Worldwide",
+        "description": "Mars Opposition"
+      }
+    ],
+    "2029-07-26": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "10:39",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.4° N"
+    },
+    "2029-07-28": {
+      "name": "Delta Aquarid Shower",
+      "type": "Meteor Shower",
+      "time": "08:53",
+      "region": "Worldwide",
+      "description": "Delta Aquarid Shower: ZHR = 20"
+    },
+    "2029-07-29": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "20:36",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2029-08-09": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.8° S"
+    },
+    "2029-08-13": [
+      {
+        "name": "Perseid Shower",
+        "type": "Meteor Shower",
+        "time": "00:47",
+        "region": "Worldwide",
+        "description": "Perseid Shower: ZHR = 90"
+      },
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "10:03",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.5° S"
+      }
+    ],
+    "2029-08-14": {
+      "name": "Jupiter-Uranus Conjunction",
+      "type": "Planetary",
+      "time": "03:19",
+      "region": "Worldwide",
+      "description": "Jupiter-Uranus: 0.8° S"
+    },
+    "2029-08-15": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "05:07",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 1.4° N"
+    },
+    "2029-08-16": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2029-08-18": [
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "07:22",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 1.5° S"
+      },
+      {
+        "name": "Moon-Mercury Conjunction",
+        "type": "Lunar",
+        "time": "17:19",
+        "region": "Worldwide",
+        "description": "Moon-Mercury: 3.5° N"
+      }
+    ],
+    "2029-08-20": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "12:56",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.1° S"
+    },
+    "2029-08-23": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "16:51",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.5° N"
+    },
+    "2029-08-26": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "02:30",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2029-08-28": {
+      "name": "Mercury Superior Conjunction",
+      "type": "Planetary",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Mercury Superior Conjunction"
+    },
+    "2029-09-05": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "12:12",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.8° S"
+    },
+    "2029-09-09": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "17:28",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2029-09-10": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "10:37",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 2.1° N"
+    },
+    "2029-09-12": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "16:26",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2029-09-14": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "13:59",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.5° S"
+    },
+    "2029-09-16": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.2° S"
+    },
+    "2029-09-20": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "00:44",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.5° N"
+    },
+    "2029-09-21": {
+      "name": "Autumnal Equinox",
+      "type": "Seasonal",
+      "time": "10:15",
+      "region": "Worldwide",
+      "description": "Autumnal Equinox"
+    },
+    "2029-09-23": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2029-10-02": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "20:53",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.7° S"
+    },
+    "2029-10-06": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "23:44",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.4° S"
+    },
+    "2029-10-07": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "07:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 25.4° E"
+    },
+    "2029-10-08": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 2.8° N"
+    },
+    "2029-10-10": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2029-10-11": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "20:53",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.4° S"
+    },
+    "2029-10-13": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "02:21",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.1° S"
+    },
+    "2029-10-17": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "06:51",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.5° N"
+    },
+    "2029-10-21": {
+      "name": "Orionid Shower",
+      "type": "Meteor Shower",
+      "time": "17:07",
+      "region": "Worldwide",
+      "description": "Orionid Shower: ZHR = 20"
+    },
+    "2029-10-22": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "15:19",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2029-10-25": {
+      "name": "Partial Lunar Eclipse",
+      "type": "Lunar Eclipse",
+      "time": "03:29",
+      "region": "Worldwide",
+      "description": "Pen. Lunar Eclipse"
+    },
+    "2029-10-30": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "05:07",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.7° S"
+    },
+    "2029-11-05": {
+      "name": "South Taurid Shower",
+      "type": "Meteor Shower",
+      "time": "17:36",
+      "region": "Worldwide",
+      "description": "South Taurid Shower: ZHR = 10"
+    },
+    "2029-11-06": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "05:40",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.4° S"
+      },
+      {
+        "name": "Mercury Inferior Conjunction",
+        "type": "Planetary",
+        "time": "09:07",
+        "region": "Worldwide",
+        "description": "Mercury Inferior Conjunction"
+      }
+    ],
+    "2029-11-07": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "02:30",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 3.4° N"
+    },
+    "2029-11-08": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "08:18",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2029-11-10": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "03:52",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.4° S"
+    },
+    "2029-11-12": [
+      {
+        "name": "North Taurid Shower",
+        "type": "Meteor Shower",
+        "time": "08:53",
+        "region": "Worldwide",
+        "description": "North Taurid Shower: ZHR = 10"
+      },
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "07:22",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 1.1° S"
+      }
+    ],
+    "2029-11-17": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "12:56",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.6° N"
+    },
+    "2029-11-18": {
+      "name": "Leonid Shower",
+      "type": "Meteor Shower",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Leonid Shower: ZHR = 15"
+    },
+    "2029-11-20": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "22:18",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2029-11-23": {
+      "name": "Total Solar Eclipse",
+      "type": "Solar Eclipse",
+      "time": "15:28",
+      "region": "Worldwide",
+      "description": "Total Solar Eclipse"
+    },
+    "2029-11-27": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "13:59",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.8° S"
+    },
+    "2029-12-03": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "11:51",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.4° S"
+    },
+    "2029-12-04": [
+      {
+        "name": "Mercury Elongation",
+        "type": "Planetary",
+        "time": "04:58",
+        "region": "Worldwide",
+        "description": "Mercury Elongation: 21° W"
+      },
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "09:58",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 3.7° N"
+      }
+    ],
+    "2029-12-05": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "15:46",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2029-12-07": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "09:58",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.4° S"
+    },
+    "2029-12-09": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "14:13",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.1° S"
+    },
+    "2029-12-13": {
+      "name": "Uranus Opposition",
+      "type": "Planetary",
+      "time": "02:21",
+      "region": "Worldwide",
+      "description": "Uranus Opposition"
+    },
+    "2029-12-14": {
+      "name": "Geminid Shower",
+      "type": "Meteor Shower",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Geminid Shower: ZHR = 120"
+    },
+    "2029-12-16": {
+      "name": "Mercury Inferior Conj.",
+      "type": "Planetary",
+      "time": "00:06",
+      "region": "Worldwide",
+      "description": "Mercury Inferior Conj."
+    },
+    "2029-12-20": {
+      "name": "Moon-Spica",
+      "type": "Lunar",
+      "time": "07:22",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.7° N"
+    },
+    "2029-12-23": {
+      "name": "Ursid Shower",
+      "type": "Meteor Shower",
+      "time": "04:00",
+      "region": "Worldwide",
+      "description": "Ursid Shower: ZHR = 10"
+    },
+    "2030-01-01": {
+      "name": "Quadrantid Shower",
+      "type": "Meteor Shower",
+      "time": "07:07",
+      "region": "Worldwide",
+      "description": "Quadrantid Shower: ZHR = 120"
+    },
+    "2030-01-04": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "06:17",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.7° S"
+    },
+    "2030-01-07": {
+      "name": "Mercury Superior Conjunction",
+      "type": "Planetary",
+      "time": "15:28",
+      "region": "Worldwide",
+      "description": "Mercury Superior Conjunction"
+    },
+    "2030-01-08": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "17:15",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.7° N"
+    },
+    "2030-01-09": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 3.6° S"
+    },
+    "2030-01-11": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "15:52",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 2.1° S"
+    },
+    "2030-01-13": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "09:37",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.5° S"
+    },
+    "2030-01-17": [
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "05:07",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 1.2° N"
+      },
+      {
+        "name": "Moon-Mars Conjunction",
+        "type": "Lunar",
+        "time": "10:39",
+        "region": "Worldwide",
+        "description": "Moon-Mars: 4.5° N"
+      }
+    ],
+    "2030-01-20": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2030-01-21": {
+      "name": "Mercury-Jupiter Conjunction",
+      "type": "Planetary",
+      "time": "07:37",
+      "region": "Worldwide",
+      "description": "Mercury-Jupiter: 0.4° N"
+    },
+    "2030-01-23": {
+      "name": "Moon-Venus Conjunction",
+      "type": "Lunar",
+      "time": "04:39",
+      "region": "Worldwide",
+      "description": "Moon-Venus: 3.5° N"
+    },
+    "2030-01-25": {
+      "name": "Mercury-Uranus Conjunction",
+      "type": "Planetary",
+      "time": "07:05",
+      "region": "Worldwide",
+      "description": "Mercury-Uranus: 1° S"
+    },
+    "2030-01-28": {
+      "name": "Venus Elongation",
+      "type": "Planetary",
+      "time": "00:59",
+      "region": "Worldwide",
+      "description": "Venus Elongation: 47.9° E"
+    },
+    "2030-01-29": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "08:18",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3.4° S"
+    },
+    "2030-01-31": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "12:12",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.6° S"
+    },
+    "2030-02-04": [
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "01:23",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.8° N"
+      },
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "03:19",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 3.3° S"
+      }
+    ],
+    "2030-02-07": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "00:08",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 2° S"
+    },
+    "2030-02-09": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "15:20",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.4° S"
+    },
+    "2030-02-13": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "12:20",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.2° N"
+    },
+    "2030-02-16": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "06:17",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2030-02-21": {
+      "name": "Mercury Inferior Conjunction",
+      "type": "Planetary",
+      "time": "02:27",
+      "region": "Worldwide",
+      "description": "Mercury Inferior Conjunction"
+    },
+    "2030-02-22": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "17:15",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3.3° S"
+    },
+    "2030-02-23": {
+      "name": "Total Solar Eclipse",
+      "type": "Solar Eclipse",
+      "time": "01:45",
+      "region": "Worldwide",
+      "description": "Total Solar Eclipse"
+    },
+    "2030-02-27": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "17:46",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.6° S"
+    },
+    "2030-02-29": {
+      "name": "Venus Elongation",
+      "type": "Planetary",
+      "time": "16:59",
+      "region": "Worldwide",
+      "description": "Venus Elongation: 29.8° W"
+    },
+    "2030-03-01": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "09:30",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2030-03-02": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "11:51",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 2.8° S"
+    },
+    "2030-03-05": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "09:53",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.8° S"
+    },
+    "2030-03-07": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "21:30",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.4° S"
+    },
+    "2030-03-12": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.2° N"
+    },
+    "2030-03-14": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "12:12",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2030-03-16": {
+      "name": "Jupiter Opposition",
+      "type": "Planetary",
+      "time": "04:58",
+      "region": "Worldwide",
+      "description": "Jupiter Opposition"
+    },
+    "2030-03-21": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "07:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 27.8° W"
+    },
+    "2030-03-22": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "02:49",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3.2° S"
+    },
+    "2030-03-26": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "01:28",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.6° S"
+    },
+    "2030-03-28": [
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "19:40",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.8° N"
+      },
+      {
+        "name": "Moon-Mercury Conjunction",
+        "type": "Lunar",
+        "time": "21:28",
+        "region": "Worldwide",
+        "description": "Moon-Mercury: 1.6° S"
+      }
+    ],
+    "2030-03-29": [
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "00:08",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 2.2° S"
+      },
+      {
+        "name": "Total Lunar Eclipse",
+        "type": "Lunar Eclipse",
+        "time": "10:33",
+        "region": "Worldwide",
+        "description": "Total Lunar Eclipse"
+      }
+    ],
+    "2030-04-01": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.7° S"
+    },
+    "2030-04-04": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "02:30",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.3° S"
+    },
+    "2030-04-08": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "02:18",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.3° N"
+    },
+    "2030-04-11": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2030-04-21": {
+      "name": "Lyrid Shower",
+      "type": "Meteor Shower",
+      "time": "17:53",
+      "region": "Worldwide",
+      "description": "Lyrid Shower: ZHR = 20"
+    },
+    "2030-04-22": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "12:12",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 3° S"
+    },
+    "2030-04-23": {
+      "name": "Mercury-Uranus Conjunction",
+      "type": "Planetary",
+      "time": "05:07",
+      "region": "Worldwide",
+      "description": "Mercury-Uranus: 1.2° N"
+    },
+    "2030-04-25": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2030-04-27": [
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "03:53",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.8° N"
+      },
+      {
+        "name": "Partial Solar Eclipse",
+        "type": "Solar Eclipse",
+        "time": "14:14",
+        "region": "Worldwide",
+        "description": "Partial Solar Eclipse"
+      },
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "05:59",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 1.6° S"
+      }
+    ],
+    "2030-04-28": {
+      "name": "Moon-Mercury Conjunction",
+      "type": "Lunar",
+      "time": "03:52",
+      "region": "Worldwide",
+      "description": "Moon-Mercury: 1.1° S"
+    },
+    "2030-04-29": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "04:39",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.6° S"
+    },
+    "2030-05-01": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.3° S"
+    },
+    "2030-05-02": {
+      "name": "Mercury Superior Conjunction",
+      "type": "Planetary",
+      "time": "00:39",
+      "region": "Worldwide",
+      "description": "Mercury Superior Conjunction"
+    },
+    "2030-05-05": [
+      {
+        "name": "Eta Aquarid Shower",
+        "type": "Meteor Shower",
+        "time": "07:07",
+        "region": "Worldwide",
+        "description": "Eta Aquarid Shower: ZHR = 60"
+      },
+      {
+        "name": "Moon-Spica Conjunction",
+        "type": "Lunar",
+        "time": "10:39",
+        "region": "Worldwide",
+        "description": "Moon-Spica: 1.3° N"
+      }
+    ],
+    "2030-05-09": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "01:28",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2030-05-19": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "21:30",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.9° S"
+    },
+    "2030-05-22": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "15:20",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2030-05-24": [
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "10:51",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 0.9° S"
+      },
+      {
+        "name": "Moon-Pollux Conjunction",
+        "type": "Lunar",
+        "time": "11:51",
+        "region": "Worldwide",
+        "description": "Moon-Pollux: 2.8° N"
+      }
+    ],
+    "2030-05-26": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "10:37",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.5° S"
+    },
+    "2030-05-28": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "15:52",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.3° S"
+    },
+    "2030-06-01": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "19:50",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.3° N"
+    },
+    "2030-06-05": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "08:18",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2030-06-11": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "09:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 24.4° E"
+    },
+    "2030-06-16": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "07:07",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.9° S"
+    },
+    "2030-06-19": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "21:30",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2030-06-20": {
+      "name": "Uranus Conjunction",
+      "type": "Planetary",
+      "time": "07:07",
+      "region": "Worldwide",
+      "description": "Uranus Conjunction"
+    },
+    "2030-06-21": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 0.2° S"
+    },
+    "2030-06-22": {
+      "name": "Mercury Inferior Conjunction",
+      "type": "Planetary",
+      "time": "03:52",
+      "region": "Worldwide",
+      "description": "Mercury Inferior Conjunction"
+    },
+    "2030-06-23": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2030-06-24": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "18:15",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.5° S"
+    },
+    "2030-06-26": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "00:52",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.2° S"
+    },
+    "2030-06-29": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "04:39",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.4° N"
+    },
+    "2030-07-02": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "14:14",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2030-07-06": {
+      "name": "Venus Superior Conjunction",
+      "type": "Planetary",
+      "time": "06:17",
+      "region": "Worldwide",
+      "description": "Venus Superior Conjunction"
+    },
+    "2030-07-13": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "16:17",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.9° S"
+    },
+    "2030-07-17": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "04:02",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2030-07-18": [
+      {
+        "name": "Mercury Elongation",
+        "type": "Planetary",
+        "time": "08:59",
+        "region": "Worldwide",
+        "description": "Mercury Elongation: 22.8° W"
+      },
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "00:07",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 0.6° N"
+      }
+    ],
+    "2030-07-20": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "02:03",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2030-07-21": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "01:27",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.5° S"
+    },
+    "2030-07-23": [
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "07:22",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 1.2° S"
+      },
+      {
+        "name": "Mars Opposition",
+        "type": "Planetary",
+        "time": "08:00",
+        "region": "Worldwide",
+        "description": "Mars Opposition"
+      }
+    ],
+    "2030-07-26": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "10:39",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.4° N"
+    },
+    "2030-07-28": {
+      "name": "Delta Aquarid Shower",
+      "type": "Meteor Shower",
+      "time": "08:53",
+      "region": "Worldwide",
+      "description": "Delta Aquarid Shower: ZHR = 20"
+    },
+    "2030-07-29": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "20:36",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2030-08-09": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.8° S"
+    },
+    "2030-08-13": [
+      {
+        "name": "Perseid Shower",
+        "type": "Meteor Shower",
+        "time": "00:47",
+        "region": "Worldwide",
+        "description": "Perseid Shower: ZHR = 90"
+      },
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "10:03",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.5° S"
+      }
+    ],
+    "2030-08-14": {
+      "name": "Jupiter-Uranus Conjunction",
+      "type": "Planetary",
+      "time": "03:19",
+      "region": "Worldwide",
+      "description": "Jupiter-Uranus: 0.8° S"
+    },
+    "2030-08-15": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "05:07",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 1.4° N"
+    },
+    "2030-08-16": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2030-08-18": [
+      {
+        "name": "Moon-Beehive Conjunction",
+        "type": "Lunar",
+        "time": "07:22",
+        "region": "Worldwide",
+        "description": "Moon-Beehive: 1.5° S"
+      },
+      {
+        "name": "Moon-Mercury Conjunction",
+        "type": "Lunar",
+        "time": "17:19",
+        "region": "Worldwide",
+        "description": "Moon-Mercury: 3.5° N"
+      }
+    ],
+    "2030-08-20": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "12:56",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.1° S"
+    },
+    "2030-08-23": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "16:51",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.5° N"
+    },
+    "2030-08-26": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "02:30",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2030-08-28": {
+      "name": "Mercury Superior Conjunction",
+      "type": "Planetary",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Mercury Superior Conjunction"
+    },
+    "2030-09-05": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "12:12",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.8° S"
+    },
+    "2030-09-09": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "17:28",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.5° S"
+    },
+    "2030-09-10": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "10:37",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 2.1° N"
+    },
+    "2030-09-12": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "16:26",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2030-09-14": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "13:59",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.5° S"
+    },
+    "2030-09-16": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.2° S"
+    },
+    "2030-09-20": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "00:44",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.5° N"
+    },
+    "2030-09-21": {
+      "name": "Autumnal Equinox",
+      "type": "Seasonal",
+      "time": "10:15",
+      "region": "Worldwide",
+      "description": "Autumnal Equinox"
+    },
+    "2030-09-23": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "09:00",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2030-10-02": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "20:53",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.7° S"
+    },
+    "2030-10-06": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "23:44",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.4° S"
+    },
+    "2030-10-07": {
+      "name": "Mercury Elongation",
+      "type": "Planetary",
+      "time": "07:59",
+      "region": "Worldwide",
+      "description": "Mercury Elongation: 25.4° E"
+    },
+    "2030-10-08": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "18:41",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 2.8° N"
+    },
+    "2030-10-10": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2030-10-11": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "20:53",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.4° S"
+    },
+    "2030-10-13": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "02:21",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.1° S"
+    },
+    "2030-10-17": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "06:51",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.5° N"
+    },
+    "2030-10-21": {
+      "name": "Orionid Shower",
+      "type": "Meteor Shower",
+      "time": "17:07",
+      "region": "Worldwide",
+      "description": "Orionid Shower: ZHR = 20"
+    },
+    "2030-10-22": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "15:19",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2030-10-25": {
+      "name": "Partial Lunar Eclipse",
+      "type": "Lunar Eclipse",
+      "time": "03:29",
+      "region": "Worldwide",
+      "description": "Pen. Lunar Eclipse"
+    },
+    "2030-10-30": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "05:07",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.7° S"
+    },
+    "2030-11-05": {
+      "name": "South Taurid Shower",
+      "type": "Meteor Shower",
+      "time": "17:36",
+      "region": "Worldwide",
+      "description": "South Taurid Shower: ZHR = 10"
+    },
+    "2030-11-06": [
+      {
+        "name": "Moon-Pleiades Conjunction",
+        "type": "Lunar",
+        "time": "05:40",
+        "region": "Worldwide",
+        "description": "Moon-Pleiades: 0.4° S"
+      },
+      {
+        "name": "Mercury Inferior Conjunction",
+        "type": "Planetary",
+        "time": "09:07",
+        "region": "Worldwide",
+        "description": "Mercury Inferior Conjunction"
+      }
+    ],
+    "2030-11-07": {
+      "name": "Moon-Jupiter Conjunction",
+      "type": "Lunar",
+      "time": "02:30",
+      "region": "Worldwide",
+      "description": "Moon-Jupiter: 3.4° N"
+    },
+    "2030-11-08": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "08:18",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2030-11-10": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "03:52",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.4° S"
+    },
+    "2030-11-12": [
+      {
+        "name": "North Taurid Shower",
+        "type": "Meteor Shower",
+        "time": "08:53",
+        "region": "Worldwide",
+        "description": "North Taurid Shower: ZHR = 10"
+      },
+      {
+        "name": "Moon-Regulus Conjunction",
+        "type": "Lunar",
+        "time": "07:22",
+        "region": "Worldwide",
+        "description": "Moon-Regulus: 1.1° S"
+      }
+    ],
+    "2030-11-17": {
+      "name": "Moon-Spica Conjunction",
+      "type": "Lunar",
+      "time": "12:56",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.6° N"
+    },
+    "2030-11-18": {
+      "name": "Leonid Shower",
+      "type": "Meteor Shower",
+      "time": "00:07",
+      "region": "Worldwide",
+      "description": "Leonid Shower: ZHR = 15"
+    },
+    "2030-11-20": {
+      "name": "Moon-Antares Conjunction",
+      "type": "Lunar",
+      "time": "22:18",
+      "region": "Worldwide",
+      "description": "Moon-Antares: 0.7° N"
+    },
+    "2030-11-23": {
+      "name": "Total Solar Eclipse",
+      "type": "Solar Eclipse",
+      "time": "15:28",
+      "region": "Worldwide",
+      "description": "Total Solar Eclipse"
+    },
+    "2030-11-27": {
+      "name": "Moon-Saturn Conjunction",
+      "type": "Lunar",
+      "time": "13:59",
+      "region": "Worldwide",
+      "description": "Moon-Saturn: 2.8° S"
+    },
+    "2030-12-03": {
+      "name": "Moon-Pleiades Conjunction",
+      "type": "Lunar",
+      "time": "11:51",
+      "region": "Worldwide",
+      "description": "Moon-Pleiades: 0.4° S"
+    },
+    "2030-12-04": [
+      {
+        "name": "Mercury Elongation",
+        "type": "Planetary",
+        "time": "04:58",
+        "region": "Worldwide",
+        "description": "Mercury Elongation: 21° W"
+      },
+      {
+        "name": "Moon-Jupiter Conjunction",
+        "type": "Lunar",
+        "time": "09:58",
+        "region": "Worldwide",
+        "description": "Moon-Jupiter: 3.7° N"
+      }
+    ],
+    "2030-12-05": {
+      "name": "Moon-Pollux Conjunction",
+      "type": "Lunar",
+      "time": "15:46",
+      "region": "Worldwide",
+      "description": "Moon-Pollux: 2.8° N"
+    },
+    "2030-12-07": {
+      "name": "Moon-Beehive Conjunction",
+      "type": "Lunar",
+      "time": "09:58",
+      "region": "Worldwide",
+      "description": "Moon-Beehive: 1.4° S"
+    },
+    "2030-12-09": {
+      "name": "Moon-Regulus Conjunction",
+      "type": "Lunar",
+      "time": "14:13",
+      "region": "Worldwide",
+      "description": "Moon-Regulus: 1.1° S"
+    },
+    "2030-12-13": {
+      "name": "Uranus Opposition",
+      "type": "Planetary",
+      "time": "02:21",
+      "region": "Worldwide",
+      "description": "Uranus Opposition"
+    },
+    "2030-12-14": {
+      "name": "Geminid Shower",
+      "type": "Meteor Shower",
+      "time": "19:07",
+      "region": "Worldwide",
+      "description": "Geminid Shower: ZHR = 120"
+    },
+    "2030-12-16": {
+      "name": "Mercury Inferior Conj.",
+      "type": "Planetary",
+      "time": "00:06",
+      "region": "Worldwide",
+      "description": "Mercury Inferior Conj."
+    },
+    "2030-12-20": {
+      "name": "Moon-Spica",
+      "type": "Lunar",
+      "time": "07:22",
+      "region": "Worldwide",
+      "description": "Moon-Spica: 1.7° N"
+    },
+    "2030-12-23": {
+      "name": "Ursid Shower",
+      "type": "Meteor Shower",
+      "time": "04:00",
+      "region": "Worldwide",
+      "description": "Ursid Shower: ZHR = 10"
+    }
+  }
+}

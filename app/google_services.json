@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019801121498",
+    "project_id": "lunaria-8bfb4",
+    "storage_bucket": "lunaria-8bfb4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019801121498:android:83183bcbc5958ce982ebe3",
+        "android_client_info": {
+          "package_name": "com.example.lunarphase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYRaq432DUz1Z-A3lFwd1B3Rsv4m4G5F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

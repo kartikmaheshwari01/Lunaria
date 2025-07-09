@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EventsFragment">
+
+    <!-- Background video -->
+    <VideoView
+        android:id="@+id/videoBackground"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:focusable="false"
+        android:clickable="false"
+        android:layout_gravity="center" />
+
+    <!-- Button background container -->
+    <FrameLayout
+        android:id="@+id/buttonFrame"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <!-- Scrollable event type buttons -->
+        <HorizontalScrollView
+            android:id="@+id/eventScrollView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fillViewport="true"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:id="@+id/eventButtonsContainer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="45sp"
+
+                android:orientation="horizontal">
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btnLunar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="12dp"
+                    android:drawableTop="@drawable/lunar"
+                    android:background="@drawable/selector_event_button"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:text="Lunar"
+                    android:layout_weight="1"
+                    android:textColor="@color/white"
+                    android:padding="5dp" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btnSolar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="12dp"
+                    android:drawableTop="@drawable/solar_icon"
+                    android:background="@drawable/selector_event_button"
+                    android:text="Solar"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:layout_weight="1"
+                    android:textColor="@color/white"
+                    android:padding="5dp" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btnMeteor"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="12dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:layout_weight="1"
+                    android:drawableTop="@drawable/meteor_icon"
+                    android:background="@drawable/selector_event_button"
+                    android:text="Meteor"
+                    android:textColor="@color/white"
+                    android:padding="5dp" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btnPlanetary"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableTop="@drawable/align"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector_event_button"
+                    android:text="Planet"
+                    android:textColor="@color/white"
+                    android:padding="5dp" />
+
+            </LinearLayout>
+        </HorizontalScrollView>
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/calendarHeader"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        app:layout_constraintTop_toBottomOf="@id/buttonFrame"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <ImageView
+            android:id="@+id/btnPreviousMonth"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@drawable/arrow_back"
+            android:contentDescription="Previous Month"
+            app:tint="@color/white" />
+
+        <TextView
+            android:id="@+id/tvMonthYear"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="July 2025"
+            android:textColor="@color/white"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/orbitron_bold" />
+
+        <ImageView
+            android:id="@+id/btnNextMonth"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@drawable/arrow_forward"
+            android:contentDescription="Next Month"
+            app:tint="@color/white" />
+    </LinearLayout>
+
+    <!-- Calendar View -->
+    <com.kizitonwose.calendar.view.CalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/edittext_border"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        app:cv_orientation="horizontal"
+        app:cv_dayViewResource="@layout/calendar_day_layout"
+        app:cv_monthHeaderResource="@layout/month_header_layout"
+        app:cv_monthViewClass="com.kizitonwose.calendar.view.MonthView"
+        app:layout_constraintTop_toBottomOf="@id/calendarHeader"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Event Card -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/eventDetailsCard"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        app:cardBackgroundColor="#00000000"
+        app:cardElevation="0dp"
+        app:cardCornerRadius="18dp"
+        android:visibility="gone"
+        app:layout_constraintTop_toBottomOf="@id/calendarView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintVertical_bias="0"
+        android:layout_marginHorizontal="20dp">
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingRight="1sp"
+        android:paddingLeft="1sp"
+        android:background="@drawable/bg_transparent_card_overlay">
+            <TextView
+            android:id="@+id/tvEventName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Event Name"
+            android:textColor="#E0FFFFFF"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            android:fontFamily="@font/orbitron_bold"
+            android:shadowColor="#80000000"
+            android:shadowDx="1"
+            android:shadowDy="1"
+            android:shadowRadius="1"
+            android:maxLines="1"
+            android:ellipsize="end"/>
+
+            <TextView
+                android:id="@+id/tvEventDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Date: July 15, 2025"
+                android:textColor="#D0FFFFFF"
+                android:layout_marginTop="6dp"
+                android:textSize="15sp" />
+            <TextView
+                android:id="@+id/tvEventTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Time: 02:30 AM"
+                android:textColor="#D0FFFFFF"
+                android:layout_marginTop="4dp"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tvEventType"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Type: Meteor Shower"
+                android:textColor="#D0FFFFFF" android:layout_marginTop="4dp" android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tvEventVisibility"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Region: Northern Hemisphere"
+                android:textColor="#D0FFFFFF" android:layout_marginTop="4dp" android:textSize="15sp"
+                android:visibility="gone"
+                tools:visibility="visible"/>
+
+            <TextView
+                android:id="@+id/tvEventDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Description:"
+                android:textColor="#C0FFFFFF"
+                android:layout_marginTop="4dp"
+                android:lineSpacingExtra="5dp"
+                android:textSize="15sp"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="20dp" android:gravity="end">
+
+                </LinearLayout>
+            </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

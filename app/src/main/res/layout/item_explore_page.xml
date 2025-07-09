@@ -1,0 +1,63 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/celestialContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black">
+
+    <!-- Fullscreen Rotating Background Image -->
+    <ImageView
+        android:id="@+id/imageCelestial"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/mercury_planet"
+        android:background="#000"
+        android:alpha="0.9" />
+
+    <!-- Bottom Sliding Card for Name & Description -->
+    <LinearLayout
+        android:id="@+id/descriptionCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="vertical"
+        android:elevation="8dp"
+        android:gravity="center_vertical">
+
+    <TextView
+        android:id="@+id/tvCelestialName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="Mercury"
+        android:textColor="@android:color/white"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/orbitron_bold"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/tvCelestialDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="Closest planet to the Sun, covered in craters."
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:fontFamily="@font/space_grotesk"
+        android:lineSpacingExtra="4dp"
+        android:textAlignment="viewStart"
+        android:justificationMode="inter_word" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="17dp"
+            android:background="#444444" />
+</LinearLayout>
+    </FrameLayout>

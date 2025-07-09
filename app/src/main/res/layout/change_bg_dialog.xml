@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="8dp"
+        android:backgroundTint="#0B0B0B"
+        android:padding="24dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <!-- Title -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Select Background"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:fontFamily="@font/orbitron_bold"
+                android:layout_marginBottom="20sp"
+                android:layout_marginTop="10sp"/>
+
+            <!-- Grid -->
+            <GridLayout
+                android:id="@+id/backgroundGrid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:columnCount="2"
+                android:rowCount="3"
+                android:alignmentMode="alignMargins"
+                android:columnOrderPreserved="false"
+                android:layout_marginBottom="16dp">
+
+                <!-- bg_video -->
+                <androidx.cardview.widget.CardView
+                    android:layout_width="140dp"
+                    android:layout_height="100dp"
+                    android:layout_margin="6dp"
+                    app:cardCornerRadius="16dp"
+                    app:cardElevation="2dp"
+                    app:cardBackgroundColor="@android:color/transparent">
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/unselected_boarder">
+
+                        <ImageView
+                            android:id="@+id/bg_video"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/video_thumb"
+                            android:contentDescription="Video BG" />
+                    </FrameLayout>
+                </androidx.cardview.widget.CardView>
+
+                <!-- bg1 -->
+                <androidx.cardview.widget.CardView
+                    android:layout_width="140dp"
+                    android:layout_height="100dp"
+                    android:layout_margin="6dp"
+                    app:cardCornerRadius="16dp"
+                    app:cardElevation="2dp"
+                    app:cardBackgroundColor="@android:color/transparent">
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/unselected_boarder">
+
+                        <ImageView
+                            android:id="@+id/bg1"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/static_bg_1"
+                            android:contentDescription="Static BG 1" />
+                    </FrameLayout>
+                </androidx.cardview.widget.CardView>
+
+                <!-- bg2 -->
+                <androidx.cardview.widget.CardView
+                    android:layout_width="140dp"
+                    android:layout_height="100dp"
+                    android:layout_margin="6dp"
+                    app:cardCornerRadius="16dp"
+                    app:cardElevation="2dp"
+                    app:cardBackgroundColor="@android:color/transparent">
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/unselected_boarder">
+
+                        <ImageView
+                            android:id="@+id/bg2"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/static_bg_2"
+                            android:contentDescription="Static BG 2" />
+                    </FrameLayout>
+                </androidx.cardview.widget.CardView>
+
+                <!-- bg3 -->
+                <androidx.cardview.widget.CardView
+                    android:layout_width="140dp"
+                    android:layout_height="100dp"
+                    android:layout_margin="6dp"
+                    app:cardCornerRadius="16dp"
+                    app:cardElevation="2dp"
+                    app:cardBackgroundColor="@android:color/transparent">
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/unselected_boarder">
+
+                        <ImageView
+                            android:id="@+id/bg3"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/static_bg_3"
+                            android:contentDescription="Static BG 3" />
+                    </FrameLayout>
+                </androidx.cardview.widget.CardView>
+
+                <!-- bg4 -->
+                <androidx.cardview.widget.CardView
+                    android:layout_width="140dp"
+                    android:layout_height="100dp"
+                    android:layout_margin="6dp"
+                    app:cardCornerRadius="16dp"
+                    app:cardElevation="2dp"
+                    app:cardBackgroundColor="@android:color/transparent">
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/unselected_boarder">
+
+                        <ImageView
+                            android:id="@+id/bg4"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/static_bg_4"
+                            android:contentDescription="Static BG 4" />
+                    </FrameLayout>
+                </androidx.cardview.widget.CardView>
+
+                <!-- bgGallery -->
+                <androidx.cardview.widget.CardView
+                    android:layout_width="140dp"
+                    android:layout_height="100dp"
+                    android:layout_margin="6dp"
+                    app:cardCornerRadius="16dp"
+                    app:cardElevation="2dp"
+                    app:cardBackgroundColor="@android:color/transparent">
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/unselected_boarder">
+
+                        <ImageView
+                            android:id="@+id/bgGallery"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerInside"
+                            android:src="@drawable/gallery"
+                            android:contentDescription="Gallery Icon" />
+                    </FrameLayout>
+                </androidx.cardview.widget.CardView>
+            </GridLayout>
+
+            <!-- Close Button -->
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnCloseDialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Close"
+                android:textColor="#FFFFFF"
+                android:layout_marginTop="8sp"
+                android:layout_marginBottom="10sp"
+                android:background="@drawable/setting_button_customize"
+                android:layout_gravity="center_horizontal" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>
